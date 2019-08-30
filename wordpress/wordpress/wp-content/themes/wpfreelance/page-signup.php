@@ -75,7 +75,16 @@ $singup_avatar_field = $box_general->singup_avatar_field;
                         <input type="email" class="form-control" id="user_email" required name="user_email" placeholder="<?php _e('Email','boxtheme');?>">
                     </div>
                 </div>
-
+				<div class="form-row">
+				<div class="col-md-12">
+				<input type="text" class="form-control" id="idNumber" name="idNumber" placeholder="<?php _e('IQAMA','boxtheme');?>">
+				</div>
+				</div>
+                <div class="form-row">
+				<div class="col-md-12">
+				<input type="text" class="form-control" id="dateofBirth" name="dateofBirth" placeholder="<?php _e('DateofBirth','boxtheme');?>">
+				</div>
+				</div>
                 <div class="form-row">
                     <div class="col-md-12">
                         <input type="password" class="form-control" id="user_pass" required name="user_pass" placeholder="<?php _e('Password','boxtheme');?>">

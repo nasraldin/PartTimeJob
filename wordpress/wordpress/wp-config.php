@@ -23,16 +23,16 @@
 define( 'DB_NAME', 'wordpress' );
 
 /** MySQL database username */
-define( 'DB_USER', 'nasr' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'P@$sw0rd' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
 
 /** Database Charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8mb4' );
+define( 'DB_CHARSET', 'utf8' );
 
 /** The Database Collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
@@ -46,14 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'a`~)t@3+Th+_E%PkHVKFo{A{tZog.4?a8~{B~JFim<Jfk,a-}aFr- T4}t_`3,T5' );
-define( 'SECURE_AUTH_KEY',  ' j<wuwbg$P ^xS1<`8w5BN&p]C_F6vMdAsoiV,fKb>uy7YfA,uutE~)aOa^+3Oam' );
-define( 'LOGGED_IN_KEY',    ':;pj+)>F?Pd_xsMie[LrNbs?M&_jT_;a[[e_43P)kWp<LNs<:q6Pecve16d$#l~U' );
-define( 'NONCE_KEY',        '[eX`1i-VS|v9-1&d~^u|)s$Y~W),,Y(AhJb,ZQBQ+&SqE]zj^7^>j)y(tle9Y9G{' );
-define( 'AUTH_SALT',        '7c,%x.HXhdPVU_ x7TzFX^&0,>*u2`uOtNXh$<&UEv4=H%Is}uW4#ZU4,d4_,m5E' );
-define( 'SECURE_AUTH_SALT', 'Flb?*xqTwm+,_|F+;BA1f0ih?O0!J&!1g~Ds<`n%ES>QpE7o@+CF|`6{/Rj]T$|8' );
-define( 'LOGGED_IN_SALT',   'UW<[%rfYtcrqBVQ`I3H_nyq]_(bg6J,k(MNDSBF+*kT`EQaN-e{}sBDAxr.Js<#S' );
-define( 'NONCE_SALT',       'j:azRWqB<f}1s<RKHj^|HJp_f1w^y I 4]PmaWr|z/LO+7< xM7xE|z$i`%KM|F{' );
+define( 'AUTH_KEY',         'put your unique phrase here' );
+define( 'SECURE_AUTH_KEY',  'put your unique phrase here' );
+define( 'LOGGED_IN_KEY',    'put your unique phrase here' );
+define( 'NONCE_KEY',        'put your unique phrase here' );
+define( 'AUTH_SALT',        'put your unique phrase here' );
+define( 'SECURE_AUTH_SALT', 'put your unique phrase here' );
+define( 'LOGGED_IN_SALT',   'put your unique phrase here' );
+define( 'NONCE_SALT',       'put your unique phrase here' );
 
 /**#@-*/
 
@@ -78,6 +78,8 @@ $table_prefix = 'wp_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define( 'WP_DEBUG', false );
+
+@ini_set('upload_max_size' , '256M' );
 
 /* That's all, stop editing! Happy publishing. */
 
