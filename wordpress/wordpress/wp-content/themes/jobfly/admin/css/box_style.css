@@ -1,0 +1,290 @@
+.main-group{
+	overflow: hidden;
+	background: #fff;
+}
+.loadinggif{
+   background: url('http://www.hsi.com.hk/HSI-Net/pages/images/en/share/ajax-loader.gif')     no-repeat     right center !important;
+ }
+.field-control-success::after {
+    font-family: 'FontAwesome';
+    content: "\f00c";
+    position: absolute;
+    bottom: 7px;
+    right: 35px;
+    color: #5cb85c;
+}
+.full.field-control-success::after{
+	bottom: 22px;
+	right: 15px;
+}
+.toggle.field-control-success::after{
+	display: none;
+}
+.form-group{
+	position: relative;
+}
+.align-right{
+	text-align: right;
+}
+.f-right{
+	float: right;
+}
+.align-center{
+	text-align: center;
+}
+.main-gropup{
+	background: #fff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.main-gropup h2{
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 15px;
+	margin-bottom: 30px;
+}
+.heading-tab ul li{
+	display: inline-block;
+	padding: 10px 20px;
+	border: 1px solid #ccc;
+	border-right: 0;
+	float: left;
+	text-transform: uppercase;
+
+}
+.no-padding{
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+
+.no-padding-left{
+	padding-left: 0 !important;
+}
+.no-padding-right{
+	padding-right: 0 !important;
+}
+.toggle-line{
+	margin-top: 0;
+}
+.toggle.btn{
+	border:1px solid #ccc;
+}
+.toggle.btn{
+	min-width: 100px;
+}
+.heading-tab ul li:last-child{
+	border-right: 1px solid #ccc;
+}
+.heading-tab ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+    color: #666;
+}
+.frm-add-package{
+	margin-top: 30px;
+}
+.frm-add-package h3{
+	padding: 15px 0;
+}
+.row-item .frm-add-package{
+	background-color: #f1f1f1;
+}
+.frm-add-package .one-line{
+	padding-bottom: 15px;
+}
+form .form-heading{
+	padding-bottom:20px;
+}
+.btn-delete{
+	cursor: pointer;
+}
+ul.box-table{
+
+}
+ul.box-table{
+
+}
+ul.box-table li{
+	border:1px solid #ccc;
+	border-top:0px;
+	padding: 5px 0;
+	margin: 0;
+}
+ul.box-table li.li-heading{
+	border:1px solid #ccc;
+	font-weight: bold;
+}
+.section-title{
+	padding: 20px 0;
+	text-transform: uppercase;
+}
+.box-section{
+
+	padding: 0 0px 30px 0px;
+	overflow: hidden;
+	background: #fff;
+}
+.sub-item{
+	display: block;
+    padding-bottom: 25px;
+    overflow: hidden;
+
+    margin-bottom: 26px;
+
+}
+.sub-section{
+	margin-bottom: 25px;
+    clear: both;
+    display: block;
+    overflow: hidden;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 25px;
+    padding-top: 20px;
+}
+.sub-wrap{
+	padding: 20px 0 20px 20px;
+	overflow: hidden;
+	display: block;
+}
+textarea{
+	width: 100%;
+	height: 120px;
+	padding-top: 15px;
+}
+
+ul.block li{
+	display: block;
+	float: none;
+}
+#left_menu ul li{
+    border: 1px solid #ccc;
+    width: 100%;
+    float: left;
+    margin: 0;
+    border-bottom: 0;
+
+}
+#sub_heading_menu ul li:last-child{
+	border-bottom: 1px solid #ccc;
+}
+#sub_heading_menu ul li a{
+	cursor: pointer;
+	padding: 8px 0;
+	float: left;
+	border:1px solid #ccc;
+	margin-right: 10px;
+}
+.second-content{
+	display: none;
+	clear: both;
+}
+.second-content.active{
+	display: block;
+}
+.toggle-on.btn{
+	background-color: #5cb85c;
+}
+div.mce-tinymce{
+	border:1px solid #ccc !important;
+}
+#main_content{
+	background: #fff;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 35px;
+	overflow: hidden;
+}
+.mce-branding-powered-by{
+	display: none;
+}
+.btn-act{
+	cursor: pointer;
+}
+.full{
+	padding-bottom: 15px;
+	display: block;
+	width: 100%;
+	padding: 0;
+	position: relative;
+	overflow: hidden;
+}
+.sub-section  .full{
+	padding-bottom: 15px;
+}
+.form-group{
+	overflow: hidden;
+}
+tr:nth-child(even) td{background: #fff}
+tr:nth-child(odd) td, div.item-le {background: #f9f9f9}
+thead:nth-child,thead th,thead tr, thead{
+	background: #fff;
+	font-weight: bold;
+}
+.widefat th{
+	font-weight: bold;
+
+}
+.widefat{
+	width: 100%;
+	float: left;
+	clear: both;
+}
+#list_package .row-item{
+	padding: 10px 0;
+	overflow: hidden;
+}
+#list_package{
+	border:1px solid #dedede;
+}
+
+.form-group.heading-line{
+	padding: 10px 0;
+	margin-bottom: 0;
+}
+.frm-update-mail {
+    background: #f3f3f3;
+    overflow: hidden;
+    display: block;
+    padding: 15px 0;
+}
+.frm-update-mail  textarea{
+	height: 79px;
+}
+.f-right{
+	float: right;
+}
+.btn-bg-white{
+	background: #fff;
+}
+.frm-update-mail .col-md-12{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.glyphicon{
+	font-size: 16px;
+}
+.toggle-handle{
+	background-color: #ccc;
+}
+input.auto-save,
+select.auto-save{
+	height: 35px;
+}
+.row-explain{
+	padding-top: 5px;
+	padding-bottom: 8px;
+	text-indent: 3px;
+}
+.btn-big{
+	padding: 6px 20px;
+	border-radius: 20px;
+	border:0;
+	background-color: #5cb85c;
+	color: #fff;
+	font-size: 19px;
+	display: inline-block;
+}
+.col-md-3{
+	
+}

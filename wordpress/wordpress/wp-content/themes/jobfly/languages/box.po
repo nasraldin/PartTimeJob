@@ -1,0 +1,3347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JobFly version 1.0\n"
+"POT-Creation-Date: 2017-12-27 10:32+0700\n"
+"PO-Revision-Date: 2017-12-27 10:32+0700\n"
+"Last-Translator: \n"
+"Language-Team: https://boxthemes.net\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;_x;_n;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: img\n"
+
+#: admin/admin.php:25 admin/admin.php:105
+msgid "Theme Options"
+msgstr ""
+
+#: admin/admin.php:55
+msgid "Click into this button to setup sample data for your website."
+msgstr ""
+
+#: admin/admin.php:58
+msgid "Sample data is imported."
+msgstr ""
+
+#: admin/admin.php:149
+msgid "BoxThemes Settings"
+msgstr ""
+
+#: admin/admin.php:159
+msgid "Box Settings"
+msgstr ""
+
+#: admin/admin.php:173
+msgid "Credit Order"
+msgstr ""
+
+#: admin/admin.php:185
+msgid "Withdrawal Order"
+msgstr ""
+
+#: admin/class_import.php:117 admin/class_import.php:126
+#: admin/class_import.php:177 admin/class_import.php:181
+#: admin/class_import.php:190
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: admin/class_import.php:118
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: admin/class_import.php:161
+msgid "All done."
+msgstr ""
+
+#: admin/class_import.php:161
+msgid "Have fun!"
+msgstr ""
+
+#: admin/class_import.php:162
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: admin/class_import.php:182
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: admin/class_import.php:198
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: admin/class_import.php:223
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: admin/class_import.php:249
+msgid "Assign Authors"
+msgstr ""
+
+#: admin/class_import.php:250
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: admin/class_import.php:252
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: admin/class_import.php:262
+msgid "Import Attachments"
+msgstr ""
+
+#: admin/class_import.php:265
+msgid "Download and import file attachments"
+msgstr ""
+
+#: admin/class_import.php:282
+msgid "Import author:"
+msgstr ""
+
+#: admin/class_import.php:293
+msgid "or create new user with login name:"
+msgstr ""
+
+#: admin/class_import.php:296
+msgid "as a new user:"
+msgstr ""
+
+#: admin/class_import.php:304
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: admin/class_import.php:306
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: admin/class_import.php:307
+msgid "- Select -"
+msgstr ""
+
+#: admin/class_import.php:357
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: admin/class_import.php:409
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: admin/class_import.php:452
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: admin/class_import.php:501 admin/class_import.php:723
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: admin/class_import.php:590
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: admin/class_import.php:627
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: admin/class_import.php:689
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/class_import.php:854
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: admin/class_import.php:861
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: admin/class_import.php:926
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: admin/class_import.php:939
+msgid "Invalid file type"
+msgstr ""
+
+#: admin/class_import.php:983
+msgid "Remote server did not respond"
+msgstr ""
+
+#: admin/class_import.php:989
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: admin/class_import.php:996
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: admin/class_import.php:1001
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: admin/class_import.php:1007
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: admin/class_import.php:1106
+msgid "Import WordPress"
+msgstr ""
+
+#: admin/class_import.php:1113
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: admin/class_import.php:1128
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: admin/class_import.php:1129
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: admin/credit.php:65 admin/credit.php:112
+msgid "There is not any order yet"
+msgstr ""
+
+#: admin/parsers.php:43 admin/parsers.php:73 admin/parsers.php:81
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: admin/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: admin/parsers.php:85 admin/parsers.php:90 admin/parsers.php:307
+#: admin/parsers.php:496
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: admin/templates/currency_package.php:26
+msgid "Select currency"
+msgstr ""
+
+#: admin/templates/currency_package.php:41
+#: admin/templates/currency_package.php:43
+msgid "Currency Position"
+msgstr ""
+
+#: admin/templates/currency_package.php:52
+msgid "Thousand Separator"
+msgstr ""
+
+#: admin/templates/currency_package.php:56
+msgid "Decimal Separator"
+msgstr ""
+
+#: admin/templates/currency_package.php:69
+msgid "Buy Credit Package plan"
+msgstr ""
+
+#: admin/templates/currency_package.php:72
+msgid "List package plan"
+msgstr ""
+
+#: admin/templates/currency_package.php:89
+#: admin/templates/currency_package.php:198
+msgid "STT"
+msgstr ""
+
+#: admin/templates/currency_package.php:90
+#: admin/templates/currency_package.php:132
+#: admin/templates/currency_package.php:199
+#: admin/templates/currency_package.php:251
+msgid "SKU"
+msgstr ""
+
+#: admin/templates/currency_package.php:91
+#: admin/templates/currency_package.php:200
+msgid "Detail"
+msgstr ""
+
+#: admin/templates/currency_package.php:118
+#: admin/templates/currency_package.php:237
+msgid "List package plan is empty"
+msgstr ""
+
+#: admin/templates/currency_package.php:124
+#: admin/templates/currency_package.php:243
+msgid "Insert new package"
+msgstr ""
+
+#: admin/templates/currency_package.php:129
+#: admin/templates/currency_package.php:157
+#: admin/templates/currency_package.php:248
+#: admin/templates/currency_package.php:285 admin/templates/email.php:36
+msgid "Name"
+msgstr ""
+
+#: admin/templates/currency_package.php:132
+#: admin/templates/currency_package.php:251
+msgid "SKU code"
+msgstr ""
+
+#: admin/templates/currency_package.php:135
+#: admin/templates/currency_package.php:254
+msgid "Price"
+msgstr ""
+
+#: admin/templates/currency_package.php:135
+#: admin/templates/currency_package.php:254
+msgid "Price of this package"
+msgstr ""
+
+#: admin/templates/currency_package.php:138
+#: admin/templates/currency_package.php:266
+msgid "Description of new package"
+msgstr ""
+
+#: admin/templates/currency_package.php:142
+#: admin/templates/currency_package.php:270
+msgid "Create"
+msgstr ""
+
+#: admin/templates/currency_package.php:155
+#: admin/templates/currency_package.php:283
+msgid "Edit package plan"
+msgstr ""
+
+#: admin/templates/currency_package.php:171
+#: admin/templates/currency_package.php:308
+msgid "Update"
+msgstr ""
+
+#: admin/templates/currency_package.php:179
+msgid "Post project option"
+msgstr ""
+
+#: admin/templates/currency_package.php:182
+msgid "Options plan"
+msgstr ""
+
+#: admin/templates/currency_package.php:219
+#: template-profile/fre-edit-freelancer.php:143
+msgid "Unset"
+msgstr ""
+
+#: admin/templates/currency_package.php:248
+msgid "Package name"
+msgstr ""
+
+#: admin/templates/email.php:21
+msgid "New withdrawal request"
+msgstr ""
+
+#: admin/templates/email.php:31
+msgid "Email Notifications"
+msgstr ""
+
+#: admin/templates/email.php:32
+msgid ""
+"Email notifications sent from job board are listed below. Click on an email "
+"to configure it."
+msgstr ""
+
+#: admin/templates/email.php:37
+msgid "Subject"
+msgstr ""
+
+#: admin/templates/email.php:38
+msgid "Receiver"
+msgstr ""
+
+#: admin/templates/email.php:69
+msgid "Setting email"
+msgstr ""
+
+#: admin/templates/email.php:75
+msgid "Header Email Image"
+msgstr ""
+
+#: admin/templates/email.php:80
+msgid "Main bg color"
+msgstr ""
+
+#: admin/templates/email.php:87
+msgid "Footer text"
+msgstr ""
+
+#: admin/templates/email.php:92
+msgid "From name"
+msgstr ""
+
+#: admin/templates/email.php:96
+msgid "From Address"
+msgstr ""
+
+#: admin/templates/escrow.php:15
+msgid "Config Escrow system"
+msgstr ""
+
+#: admin/templates/escrow.php:19
+msgid "Commision"
+msgstr ""
+
+#: admin/templates/escrow.php:23
+msgid "Commistion type"
+msgstr ""
+
+#: admin/templates/escrow.php:26
+msgid "Fix number"
+msgstr ""
+
+#: admin/templates/escrow.php:27
+msgid "Percent"
+msgstr ""
+
+#: admin/templates/escrow.php:32
+msgid "Who is pay commision"
+msgstr ""
+
+#: admin/templates/escrow.php:64
+msgid "Select the Eccrow system"
+msgstr ""
+
+#: admin/templates/escrow.php:68 admin/templates/escrow.php:80
+msgid "Credit System"
+msgstr ""
+
+#: admin/templates/escrow.php:69
+msgid "PayPal Adaptive"
+msgstr ""
+
+#: admin/templates/escrow.php:84
+msgid "Number Credit Auto Deposit for new account"
+msgstr ""
+
+#: admin/templates/escrow.php:139
+msgid "Sandbox Mode"
+msgstr ""
+
+#: admin/templates/escrow.php:142
+msgid "Live mode is enabling."
+msgstr ""
+
+#: admin/templates/escrow.php:144
+msgid "Sandbox mode is enabling."
+msgstr ""
+
+#: admin/templates/escrow.php:149
+msgid "PayPal Adaptive Sandbox Mode Settings"
+msgstr ""
+
+#: admin/templates/escrow.php:149
+msgid "PayPal Adaptive Live Mode Settings"
+msgstr ""
+
+#: admin/templates/escrow.php:152
+msgid "PayPal Account"
+msgstr ""
+
+#: admin/templates/escrow.php:158
+msgid ""
+"Account use to get/set API and use to receive the commision fee if have."
+msgstr ""
+
+#: admin/templates/escrow.php:162
+msgid "API User ID"
+msgstr ""
+
+#: admin/templates/escrow.php:167
+msgid "API Password"
+msgstr ""
+
+#: admin/templates/escrow.php:171
+msgid "API Signarute"
+msgstr ""
+
+#: admin/templates/escrow.php:175
+msgid "API App ID"
+msgstr ""
+
+#: admin/templates/escrow.php:179
+msgid "APP-80W284485P519543T is default APP ID for sandbox mode."
+msgstr ""
+
+#: admin/templates/general.php:20
+msgid "Main options"
+msgstr ""
+
+#: admin/templates/general.php:22
+msgid "Pending jobs"
+msgstr ""
+
+#: admin/templates/general.php:23
+msgid ""
+"if enable this option, all job only appearances in the site after admin "
+"manually approve it."
+msgstr ""
+
+#: admin/templates/general.php:27
+msgid "Google Analytics Script"
+msgstr ""
+
+#: admin/templates/general.php:30
+msgid "Copyright text"
+msgstr ""
+
+#: admin/templates/general.php:33
+msgid "Social Links"
+msgstr ""
+
+#: admin/templates/general.php:33
+msgid "List social link in the footer"
+msgstr ""
+
+#: admin/templates/general.php:37
+msgid "Facebook link"
+msgstr ""
+
+#: admin/templates/general.php:42
+msgid "Twitter link"
+msgstr ""
+
+#: admin/templates/general.php:47
+msgid "Google Plus link"
+msgstr ""
+
+#: admin/templates/general.php:65
+msgid "Social Login"
+msgstr ""
+
+#: admin/templates/general.php:93
+msgid "Client ID"
+msgstr ""
+
+#: admin/templates/general.php:122
+msgid "Google Captcha"
+msgstr ""
+
+#: admin/templates/general.php:127
+msgid "Settings"
+msgstr ""
+
+#: admin/templates/general.php:130 admin/templates/general.php:131
+msgid "reCaptcha Site Key"
+msgstr ""
+
+#: admin/templates/general.php:134 admin/templates/general.php:135
+msgid "reCaptcha Secret Key"
+msgstr ""
+
+#: admin/templates/general.php:139
+msgid ""
+"Enable this to help your website security more and safe. Add captcha code in "
+"login form and in register form - <a target=\"_blank\" href=\"https://www."
+"google.com/recaptcha/admin#list\" target=\"_blank\" rel=\"nofollow\">get "
+"key</a>"
+msgstr ""
+
+#: admin/templates/payment_gateway.php:29
+msgid "Payent Gateways Settings"
+msgstr ""
+
+#: admin/templates/payment_gateway.php:32
+msgid "Checkout out mode"
+msgstr ""
+
+#: admin/templates/payment_gateway.php:33
+msgid "Live mode is"
+msgstr ""
+
+#: admin/templates/payment_gateway.php:48
+msgid "Your Paypal email"
+msgstr ""
+
+#: admin/templates/payment_gateway.php:49
+msgid "Set PayPal Email"
+msgstr ""
+
+#: archive-job.php:36
+msgid "The query is empty"
+msgstr ""
+
+#: footer.php:5 inc/class_customizer.php:50
+msgid "Contact Us"
+msgstr ""
+
+#: footer.php:6 inc/class_customizer.php:51
+msgid "Help & Resources"
+msgstr ""
+
+#: footer.php:7 inc/class_customizer.php:52
+msgid "Commercial"
+msgstr ""
+
+#: functions.php:51 functions.php:161 template/navigation-top.php:12
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:52 functions.php:170
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:133
+msgid "Espresso"
+msgstr ""
+
+#: functions.php:137
+msgid "Sandwich"
+msgstr ""
+
+#: functions.php:141
+msgid "Coffee"
+msgstr ""
+
+#: functions.php:200
+msgid "on"
+msgstr ""
+
+#: functions.php:246
+msgid "Main sidebar"
+msgstr ""
+
+#: functions.php:248
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:257
+msgid "Blog"
+msgstr ""
+
+#: functions.php:259
+msgid "Add widgets here to appear in Blog page."
+msgstr ""
+
+#: functions.php:267
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: header.php:82 page-login.php:46
+msgid "Log In"
+msgstr ""
+
+#: header.php:85 page-login.php:51
+msgid "Sign Up"
+msgstr ""
+
+#: inc/class-wp-ajax.php:152
+msgid "Invalid captcha"
+msgstr ""
+
+#: inc/class-wp-ajax.php:161 inc/class-wp-ajax.php:212
+#: inc/class-wp-ajax.php:264
+msgid "The nonce field is incorrect"
+msgstr ""
+
+#: inc/class-wp-ajax.php:175
+msgid "You have logout successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:208
+msgid "Insert project fail"
+msgstr ""
+
+#: inc/class-wp-ajax.php:219
+msgid "You have posted job successfully"
+msgstr ""
+
+#: inc/class-wp-ajax.php:220
+msgid "You have updated job successfully"
+msgstr ""
+
+#: inc/class-wp-ajax.php:221
+msgid "You have deleted job successfully"
+msgstr ""
+
+#: inc/class-wp-ajax.php:222
+msgid "You have archived job successfully"
+msgstr ""
+
+#: inc/class-wp-ajax.php:258
+msgid "You have bid successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:271
+msgid "You have bid successfully"
+msgstr ""
+
+#: inc/class-wp-ajax.php:279
+msgid "Update  successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:290 inc/class_post.php:37
+msgid "Has something wrong"
+msgstr ""
+
+#: inc/class-wp-ajax.php:310
+msgid "You have registered successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:368
+msgid "You have updated profile successfull"
+msgstr ""
+
+#: inc/class-wp-ajax.php:435
+msgid "Create conversation successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:450 inc/class-wp-ajax.php:456
+msgid "Award job successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:473 inc/class-wp-ajax.php:500
+msgid "Review job"
+msgstr ""
+
+#: inc/class-wp-ajax.php:480 inc/class-wp-ajax.php:506
+msgid "Review job done"
+msgstr ""
+
+#: inc/class-wp-ajax.php:525
+msgid "Update user information successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:542
+msgid "Update avatar ok"
+msgstr ""
+
+#: inc/class-wp-ajax.php:553
+msgid "Remove attachment successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:555
+msgid "Remove attachment fail"
+msgstr ""
+
+#: inc/class-wp-ajax.php:583
+msgid "secutiry issues"
+msgstr ""
+
+#: inc/class-wp-ajax.php:630 inc/class-wp-ajax.php:697
+msgid "Uploaded is successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:691
+#, php-format
+msgid "Upload new file: %s"
+msgstr ""
+
+#: inc/class-wp-ajax.php:770
+#, php-format
+msgid "%s job found"
+msgstr ""
+
+#: inc/class-wp-ajax.php:771
+#, php-format
+msgid "%s profile found"
+msgstr ""
+
+#: inc/class-wp-ajax.php:791
+msgid "Search result is empty"
+msgstr ""
+
+#: inc/class-wp-ajax.php:862
+msgid "Add portfolio successful"
+msgstr ""
+
+#: inc/class-wp-ajax.php:913
+msgid "Your withdrawal request is sent"
+msgstr ""
+
+#: inc/class-wp-ajax.php:930
+msgid "Update withdraw info done."
+msgstr ""
+
+#: inc/class-wp-ajax.php:936
+msgid "Can not send new email."
+msgstr ""
+
+#: inc/class-wp-ajax.php:941
+msgid "Unsecurity request"
+msgstr ""
+
+#: inc/class-wp-ajax.php:960
+msgid "New email is sent."
+msgstr ""
+
+#: inc/class-wp-ajax.php:1008
+msgid "This is email not available"
+msgstr ""
+
+#: inc/class_bid.php:34 inc/class_post.php:161
+msgid "You can not delete a portfolio of another account"
+msgstr ""
+
+#: inc/class_bid.php:40
+#, php-format
+msgid "%s just canceled bid  on the project <i>%s</i>"
+msgstr ""
+
+#: inc/class_bid.php:97
+msgid "Only freelancer can bid."
+msgstr ""
+
+#: inc/class_bid.php:104
+msgid "Project is empty."
+msgstr ""
+
+#: inc/class_bid.php:107
+msgid "Cover letter is empty."
+msgstr ""
+
+#: inc/class_bid.php:114
+msgid "You've bid on this project"
+msgstr ""
+
+#: inc/class_bid.php:122
+msgid "You have to set your PayPal email to bid."
+msgstr ""
+
+#: inc/class_bid.php:134
+msgid "You can not bid on your own project."
+msgstr ""
+
+#: inc/class_bid.php:177
+#, php-format
+msgid "%s bid on project <i>%s</i>"
+msgstr ""
+
+#: inc/class_bid.php:193
+msgid "You can not update this bid"
+msgstr ""
+
+#: inc/class_bid.php:214
+#, php-format
+msgid "%s updated bid"
+msgstr ""
+
+#: inc/class_credit_bk.php:50
+msgid "Your credit are not enough to perform this transaction."
+msgstr ""
+
+#: inc/class_credit_bk.php:200
+msgid "Please set your payment method to withdraw"
+msgstr ""
+
+#: inc/class_credit_bk.php:206
+msgid "Your amout must bigger than 10$"
+msgstr ""
+
+#: inc/class_credit_bk.php:209
+#, php-format
+msgid "You only can withdraw less than %s."
+msgstr ""
+
+#: inc/class_credit_bk.php:233
+#, php-format
+msgid "%s send a request withdraw: %f "
+msgstr ""
+
+#: inc/class_customizer.php:7
+msgid "Home page"
+msgstr ""
+
+#: inc/class_customizer.php:17
+msgid "Main banner"
+msgstr ""
+
+#: inc/class_customizer.php:30
+msgid "Footer setup"
+msgstr ""
+
+#: inc/class_customizer.php:32
+msgid "Setup for the footer section."
+msgstr ""
+
+#: inc/class_customizer.php:45
+msgid "No menu to select"
+msgstr ""
+
+#: inc/class_customizer.php:61
+msgid "Set title Menu 1"
+msgstr ""
+
+#: inc/class_customizer.php:72
+msgid "Select Footer Menu 1"
+msgstr ""
+
+#: inc/class_customizer.php:85
+msgid "Set title Menu 2"
+msgstr ""
+
+#: inc/class_customizer.php:96
+msgid "Select Footer Menu 2"
+msgstr ""
+
+#: inc/class_customizer.php:108
+msgid "Set title Menu 3"
+msgstr ""
+
+#: inc/class_customizer.php:119
+msgid "Select Footer Menu 3"
+msgstr ""
+
+#: inc/class_customizer.php:134
+msgid "Set contact information"
+msgstr ""
+
+#: inc/class_job.php:107
+#, php-format
+msgid "Spent %s"
+msgstr ""
+
+#: inc/class_job.php:108
+#, php-format
+msgid "Budget: %s"
+msgstr ""
+
+#: inc/class_job.php:112 inc/class_profile.php:69
+msgid "Not set"
+msgstr ""
+
+#: inc/class_job.php:133
+msgid "Please log in your account again."
+msgstr ""
+
+#: inc/class_job.php:158
+msgid "Assign job successful."
+msgstr ""
+
+#: inc/class_job.php:281
+msgid "This job is archived"
+msgstr ""
+
+#: inc/class_job.php:370
+msgid "Please select 1 option."
+msgstr ""
+
+#: inc/class_job.php:426
+msgid "You are not allowed to perform this action."
+msgstr ""
+
+#: inc/class_job.php:445 inc/class_job.php:470
+msgid "You are not author of this project."
+msgstr ""
+
+#: inc/class_job.php:448
+msgid "This job is not available."
+msgstr ""
+
+#: inc/class_job.php:451
+msgid "Please choose a freelancer."
+msgstr ""
+
+#: inc/class_job.php:459 inc/class_job.php:477
+msgid "You have to set score"
+msgstr ""
+
+#: inc/class_job.php:465
+msgid "This project is not available"
+msgstr ""
+
+#: inc/class_job.php:483
+msgid "You revieded this project."
+msgstr ""
+
+#: inc/class_job.php:489
+msgid "You are not winner."
+msgstr ""
+
+#: inc/class_mail.php:320
+#, php-format
+msgid "Re-confirmation email from %s"
+msgstr ""
+
+#: inc/class_mail.php:321
+#, php-format
+msgid ""
+"Hello %s,<p>This is new confirmation email from %s.</p>Kindly click <a href="
+"\"%s\">here</a> to active your account.<p>Regards,"
+msgstr ""
+
+#: inc/class_message.php:57
+#, php-format
+msgid "%s sent you a message in project <i>%s</i>"
+msgstr ""
+
+#: inc/class_message.php:62
+#, php-format
+msgid "%s assigned you in project <i>%s</i>"
+msgstr ""
+
+#: inc/class_option.php:76
+msgid ""
+"<p>Kindly deposite to this bank account:</p><p>Number: XXXXXXXXXX.</"
+"p><p>Bank: ANZ Bank.</p><p> Account name: Johnny Cook.</p><p>After get your "
+"fund, we will approve your order and you can access your credit.</p"
+msgstr ""
+
+#: inc/class_option.php:165
+msgid "Reset password at #blog_name"
+msgstr ""
+
+#: inc/class_option.php:181
+msgid ""
+"Hello #display_name, <p>#employer_name just sent a new message for you in "
+"the project: <i>#project_name<i/>. You can click <a href=\"#project_link"
+"\">here</a> to check the detail.</p> <p>Regards, </p."
+msgstr ""
+
+#: inc/class_option.php:191
+msgid ""
+"Congart #display_name, <p>Your bidding is choosen in the project: "
+"<i>#project_name<i/>. You can click <a href=\"#project_link\">here</a> to "
+"check the detail.</p> <p>Regards, </p."
+msgstr ""
+
+#: inc/class_portfolio.php:34
+msgid "Please select 1 image"
+msgstr ""
+
+#: inc/class_post.php:120
+msgid "You can not renew this job"
+msgstr ""
+
+#: inc/class_post.php:175
+msgid "You can not archived this job"
+msgstr ""
+
+#: inc/class_post.php:202 inc/class_post.php:214
+msgid "Empty post title"
+msgstr ""
+
+#: inc/class_post.php:205 inc/class_post.php:217
+msgid "Empty job content"
+msgstr ""
+
+#: inc/class_profile.php:76
+#, php-format
+msgid "Earned : %s"
+msgstr ""
+
+#: inc/class_profile.php:82
+#, php-format
+msgid "%s %s/h"
+msgstr ""
+
+#: inc/class_profile.php:192
+msgid "You don'n have permission to update"
+msgstr ""
+
+#: inc/class_user.php:71
+msgid "Email is empty"
+msgstr ""
+
+#: inc/class_user.php:74
+msgid "User name is empty"
+msgstr ""
+
+#: inc/core_functions.php:224
+msgid "Captcha Invalid"
+msgstr ""
+
+#: inc/core_functions.php:530
+msgid "Afghanistan"
+msgstr ""
+
+#: inc/core_functions.php:531
+msgid "&#197;land Islands"
+msgstr ""
+
+#: inc/core_functions.php:532
+msgid "Albania"
+msgstr ""
+
+#: inc/core_functions.php:533
+msgid "Algeria"
+msgstr ""
+
+#: inc/core_functions.php:534
+msgid "American Samoa"
+msgstr ""
+
+#: inc/core_functions.php:535
+msgid "Andorra"
+msgstr ""
+
+#: inc/core_functions.php:536
+msgid "Angola"
+msgstr ""
+
+#: inc/core_functions.php:537
+msgid "Anguilla"
+msgstr ""
+
+#: inc/core_functions.php:538
+msgid "Antarctica"
+msgstr ""
+
+#: inc/core_functions.php:539
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: inc/core_functions.php:540
+msgid "Argentina"
+msgstr ""
+
+#: inc/core_functions.php:541
+msgid "Armenia"
+msgstr ""
+
+#: inc/core_functions.php:542
+msgid "Aruba"
+msgstr ""
+
+#: inc/core_functions.php:543
+msgid "Australia"
+msgstr ""
+
+#: inc/core_functions.php:544
+msgid "Austria"
+msgstr ""
+
+#: inc/core_functions.php:545
+msgid "Azerbaijan"
+msgstr ""
+
+#: inc/core_functions.php:546
+msgid "Bahamas"
+msgstr ""
+
+#: inc/core_functions.php:547
+msgid "Bahrain"
+msgstr ""
+
+#: inc/core_functions.php:548
+msgid "Bangladesh"
+msgstr ""
+
+#: inc/core_functions.php:549
+msgid "Barbados"
+msgstr ""
+
+#: inc/core_functions.php:550
+msgid "Belarus"
+msgstr ""
+
+#: inc/core_functions.php:551
+msgid "Belgium"
+msgstr ""
+
+#: inc/core_functions.php:552
+msgid "Belau"
+msgstr ""
+
+#: inc/core_functions.php:553
+msgid "Belize"
+msgstr ""
+
+#: inc/core_functions.php:554
+msgid "Benin"
+msgstr ""
+
+#: inc/core_functions.php:555
+msgid "Bermuda"
+msgstr ""
+
+#: inc/core_functions.php:556
+msgid "Bhutan"
+msgstr ""
+
+#: inc/core_functions.php:557
+msgid "Bolivia"
+msgstr ""
+
+#: inc/core_functions.php:558
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: inc/core_functions.php:559
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: inc/core_functions.php:560
+msgid "Botswana"
+msgstr ""
+
+#: inc/core_functions.php:561
+msgid "Bouvet Island"
+msgstr ""
+
+#: inc/core_functions.php:562
+msgid "Brazil"
+msgstr ""
+
+#: inc/core_functions.php:563
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: inc/core_functions.php:564
+msgid "British Virgin Islands"
+msgstr ""
+
+#: inc/core_functions.php:565
+msgid "Brunei"
+msgstr ""
+
+#: inc/core_functions.php:566
+msgid "Bulgaria"
+msgstr ""
+
+#: inc/core_functions.php:567
+msgid "Burkina Faso"
+msgstr ""
+
+#: inc/core_functions.php:568
+msgid "Burundi"
+msgstr ""
+
+#: inc/core_functions.php:569
+msgid "Cambodia"
+msgstr ""
+
+#: inc/core_functions.php:570
+msgid "Cameroon"
+msgstr ""
+
+#: inc/core_functions.php:571
+msgid "Canada"
+msgstr ""
+
+#: inc/core_functions.php:572
+msgid "Cape Verde"
+msgstr ""
+
+#: inc/core_functions.php:573
+msgid "Cayman Islands"
+msgstr ""
+
+#: inc/core_functions.php:574
+msgid "Central African Republic"
+msgstr ""
+
+#: inc/core_functions.php:575
+msgid "Chad"
+msgstr ""
+
+#: inc/core_functions.php:576
+msgid "Chile"
+msgstr ""
+
+#: inc/core_functions.php:577
+msgid "China"
+msgstr ""
+
+#: inc/core_functions.php:578
+msgid "Christmas Island"
+msgstr ""
+
+#: inc/core_functions.php:579
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: inc/core_functions.php:580
+msgid "Colombia"
+msgstr ""
+
+#: inc/core_functions.php:581
+msgid "Comoros"
+msgstr ""
+
+#: inc/core_functions.php:582
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: inc/core_functions.php:583
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: inc/core_functions.php:584
+msgid "Cook Islands"
+msgstr ""
+
+#: inc/core_functions.php:585
+msgid "Costa Rica"
+msgstr ""
+
+#: inc/core_functions.php:586
+msgid "Croatia"
+msgstr ""
+
+#: inc/core_functions.php:587
+msgid "Cuba"
+msgstr ""
+
+#: inc/core_functions.php:588
+msgid "Cura&ccedil;ao"
+msgstr ""
+
+#: inc/core_functions.php:589
+msgid "Cyprus"
+msgstr ""
+
+#: inc/core_functions.php:590
+msgid "Czech Republic"
+msgstr ""
+
+#: inc/core_functions.php:591
+msgid "Denmark"
+msgstr ""
+
+#: inc/core_functions.php:592
+msgid "Djibouti"
+msgstr ""
+
+#: inc/core_functions.php:593
+msgid "Dominica"
+msgstr ""
+
+#: inc/core_functions.php:594
+msgid "Dominican Republic"
+msgstr ""
+
+#: inc/core_functions.php:595
+msgid "Ecuador"
+msgstr ""
+
+#: inc/core_functions.php:596
+msgid "Egypt"
+msgstr ""
+
+#: inc/core_functions.php:597
+msgid "El Salvador"
+msgstr ""
+
+#: inc/core_functions.php:598
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: inc/core_functions.php:599
+msgid "Eritrea"
+msgstr ""
+
+#: inc/core_functions.php:600
+msgid "Estonia"
+msgstr ""
+
+#: inc/core_functions.php:601
+msgid "Ethiopia"
+msgstr ""
+
+#: inc/core_functions.php:602
+msgid "Falkland Islands"
+msgstr ""
+
+#: inc/core_functions.php:603
+msgid "Faroe Islands"
+msgstr ""
+
+#: inc/core_functions.php:604
+msgid "Fiji"
+msgstr ""
+
+#: inc/core_functions.php:605
+msgid "Finland"
+msgstr ""
+
+#: inc/core_functions.php:606
+msgid "France"
+msgstr ""
+
+#: inc/core_functions.php:607
+msgid "French Guiana"
+msgstr ""
+
+#: inc/core_functions.php:608
+msgid "French Polynesia"
+msgstr ""
+
+#: inc/core_functions.php:609
+msgid "French Southern Territories"
+msgstr ""
+
+#: inc/core_functions.php:610
+msgid "Gabon"
+msgstr ""
+
+#: inc/core_functions.php:611
+msgid "Gambia"
+msgstr ""
+
+#: inc/core_functions.php:612
+msgid "Georgia"
+msgstr ""
+
+#: inc/core_functions.php:613
+msgid "Germany"
+msgstr ""
+
+#: inc/core_functions.php:614
+msgid "Ghana"
+msgstr ""
+
+#: inc/core_functions.php:615
+msgid "Gibraltar"
+msgstr ""
+
+#: inc/core_functions.php:616
+msgid "Greece"
+msgstr ""
+
+#: inc/core_functions.php:617
+msgid "Greenland"
+msgstr ""
+
+#: inc/core_functions.php:618
+msgid "Grenada"
+msgstr ""
+
+#: inc/core_functions.php:619
+msgid "Guadeloupe"
+msgstr ""
+
+#: inc/core_functions.php:620
+msgid "Guam"
+msgstr ""
+
+#: inc/core_functions.php:621
+msgid "Guatemala"
+msgstr ""
+
+#: inc/core_functions.php:622
+msgid "Guernsey"
+msgstr ""
+
+#: inc/core_functions.php:623
+msgid "Guinea"
+msgstr ""
+
+#: inc/core_functions.php:624
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: inc/core_functions.php:625
+msgid "Guyana"
+msgstr ""
+
+#: inc/core_functions.php:626
+msgid "Haiti"
+msgstr ""
+
+#: inc/core_functions.php:627
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: inc/core_functions.php:628
+msgid "Honduras"
+msgstr ""
+
+#: inc/core_functions.php:629
+msgid "Hong Kong"
+msgstr ""
+
+#: inc/core_functions.php:630
+msgid "Hungary"
+msgstr ""
+
+#: inc/core_functions.php:631
+msgid "Iceland"
+msgstr ""
+
+#: inc/core_functions.php:632
+msgid "India"
+msgstr ""
+
+#: inc/core_functions.php:633
+msgid "Indonesia"
+msgstr ""
+
+#: inc/core_functions.php:634
+msgid "Iran"
+msgstr ""
+
+#: inc/core_functions.php:635
+msgid "Iraq"
+msgstr ""
+
+#: inc/core_functions.php:636
+msgid "Ireland"
+msgstr ""
+
+#: inc/core_functions.php:637
+msgid "Isle of Man"
+msgstr ""
+
+#: inc/core_functions.php:638
+msgid "Israel"
+msgstr ""
+
+#: inc/core_functions.php:639
+msgid "Italy"
+msgstr ""
+
+#: inc/core_functions.php:640
+msgid "Ivory Coast"
+msgstr ""
+
+#: inc/core_functions.php:641
+msgid "Jamaica"
+msgstr ""
+
+#: inc/core_functions.php:642
+msgid "Japan"
+msgstr ""
+
+#: inc/core_functions.php:643
+msgid "Jersey"
+msgstr ""
+
+#: inc/core_functions.php:644
+msgid "Jordan"
+msgstr ""
+
+#: inc/core_functions.php:645
+msgid "Kazakhstan"
+msgstr ""
+
+#: inc/core_functions.php:646
+msgid "Kenya"
+msgstr ""
+
+#: inc/core_functions.php:647
+msgid "Kiribati"
+msgstr ""
+
+#: inc/core_functions.php:648
+msgid "Kuwait"
+msgstr ""
+
+#: inc/core_functions.php:649
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: inc/core_functions.php:650
+msgid "Laos"
+msgstr ""
+
+#: inc/core_functions.php:651
+msgid "Latvia"
+msgstr ""
+
+#: inc/core_functions.php:652
+msgid "Lebanon"
+msgstr ""
+
+#: inc/core_functions.php:653
+msgid "Lesotho"
+msgstr ""
+
+#: inc/core_functions.php:654
+msgid "Liberia"
+msgstr ""
+
+#: inc/core_functions.php:655
+msgid "Libya"
+msgstr ""
+
+#: inc/core_functions.php:656
+msgid "Liechtenstein"
+msgstr ""
+
+#: inc/core_functions.php:657
+msgid "Lithuania"
+msgstr ""
+
+#: inc/core_functions.php:658
+msgid "Luxembourg"
+msgstr ""
+
+#: inc/core_functions.php:659
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: inc/core_functions.php:660
+msgid "Macedonia"
+msgstr ""
+
+#: inc/core_functions.php:661
+msgid "Madagascar"
+msgstr ""
+
+#: inc/core_functions.php:662
+msgid "Malawi"
+msgstr ""
+
+#: inc/core_functions.php:663
+msgid "Malaysia"
+msgstr ""
+
+#: inc/core_functions.php:664
+msgid "Maldives"
+msgstr ""
+
+#: inc/core_functions.php:665
+msgid "Mali"
+msgstr ""
+
+#: inc/core_functions.php:666
+msgid "Malta"
+msgstr ""
+
+#: inc/core_functions.php:667
+msgid "Marshall Islands"
+msgstr ""
+
+#: inc/core_functions.php:668
+msgid "Martinique"
+msgstr ""
+
+#: inc/core_functions.php:669
+msgid "Mauritania"
+msgstr ""
+
+#: inc/core_functions.php:670
+msgid "Mauritius"
+msgstr ""
+
+#: inc/core_functions.php:671
+msgid "Mayotte"
+msgstr ""
+
+#: inc/core_functions.php:672
+msgid "Mexico"
+msgstr ""
+
+#: inc/core_functions.php:673
+msgid "Micronesia"
+msgstr ""
+
+#: inc/core_functions.php:674
+msgid "Moldova"
+msgstr ""
+
+#: inc/core_functions.php:675
+msgid "Monaco"
+msgstr ""
+
+#: inc/core_functions.php:676
+msgid "Mongolia"
+msgstr ""
+
+#: inc/core_functions.php:677
+msgid "Montenegro"
+msgstr ""
+
+#: inc/core_functions.php:678
+msgid "Montserrat"
+msgstr ""
+
+#: inc/core_functions.php:679
+msgid "Morocco"
+msgstr ""
+
+#: inc/core_functions.php:680
+msgid "Mozambique"
+msgstr ""
+
+#: inc/core_functions.php:681
+msgid "Myanmar"
+msgstr ""
+
+#: inc/core_functions.php:682
+msgid "Namibia"
+msgstr ""
+
+#: inc/core_functions.php:683
+msgid "Nauru"
+msgstr ""
+
+#: inc/core_functions.php:684
+msgid "Nepal"
+msgstr ""
+
+#: inc/core_functions.php:685
+msgid "Netherlands"
+msgstr ""
+
+#: inc/core_functions.php:686
+msgid "New Caledonia"
+msgstr ""
+
+#: inc/core_functions.php:687
+msgid "New Zealand"
+msgstr ""
+
+#: inc/core_functions.php:688
+msgid "Nicaragua"
+msgstr ""
+
+#: inc/core_functions.php:689
+msgid "Niger"
+msgstr ""
+
+#: inc/core_functions.php:690
+msgid "Nigeria"
+msgstr ""
+
+#: inc/core_functions.php:691
+msgid "Niue"
+msgstr ""
+
+#: inc/core_functions.php:692
+msgid "Norfolk Island"
+msgstr ""
+
+#: inc/core_functions.php:693
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: inc/core_functions.php:694
+msgid "North Korea"
+msgstr ""
+
+#: inc/core_functions.php:695
+msgid "Norway"
+msgstr ""
+
+#: inc/core_functions.php:696
+msgid "Oman"
+msgstr ""
+
+#: inc/core_functions.php:697
+msgid "Pakistan"
+msgstr ""
+
+#: inc/core_functions.php:698
+msgid "Palestinian Territory"
+msgstr ""
+
+#: inc/core_functions.php:699
+msgid "Panama"
+msgstr ""
+
+#: inc/core_functions.php:700
+msgid "Papua New Guinea"
+msgstr ""
+
+#: inc/core_functions.php:701
+msgid "Paraguay"
+msgstr ""
+
+#: inc/core_functions.php:702
+msgid "Peru"
+msgstr ""
+
+#: inc/core_functions.php:703
+msgid "Philippines"
+msgstr ""
+
+#: inc/core_functions.php:704
+msgid "Pitcairn"
+msgstr ""
+
+#: inc/core_functions.php:705
+msgid "Poland"
+msgstr ""
+
+#: inc/core_functions.php:706
+msgid "Portugal"
+msgstr ""
+
+#: inc/core_functions.php:707
+msgid "Puerto Rico"
+msgstr ""
+
+#: inc/core_functions.php:708
+msgid "Qatar"
+msgstr ""
+
+#: inc/core_functions.php:709
+msgid "Reunion"
+msgstr ""
+
+#: inc/core_functions.php:710
+msgid "Romania"
+msgstr ""
+
+#: inc/core_functions.php:711
+msgid "Russia"
+msgstr ""
+
+#: inc/core_functions.php:712
+msgid "Rwanda"
+msgstr ""
+
+#: inc/core_functions.php:713
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: inc/core_functions.php:714
+msgid "Saint Helena"
+msgstr ""
+
+#: inc/core_functions.php:715
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: inc/core_functions.php:716
+msgid "Saint Lucia"
+msgstr ""
+
+#: inc/core_functions.php:717
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: inc/core_functions.php:718
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: inc/core_functions.php:719
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: inc/core_functions.php:720
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: inc/core_functions.php:721
+msgid "San Marino"
+msgstr ""
+
+#: inc/core_functions.php:722
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: inc/core_functions.php:723
+msgid "Saudi Arabia"
+msgstr ""
+
+#: inc/core_functions.php:724
+msgid "Senegal"
+msgstr ""
+
+#: inc/core_functions.php:725
+msgid "Serbia"
+msgstr ""
+
+#: inc/core_functions.php:726
+msgid "Seychelles"
+msgstr ""
+
+#: inc/core_functions.php:727
+msgid "Sierra Leone"
+msgstr ""
+
+#: inc/core_functions.php:728
+msgid "Singapore"
+msgstr ""
+
+#: inc/core_functions.php:729
+msgid "Slovakia"
+msgstr ""
+
+#: inc/core_functions.php:730
+msgid "Slovenia"
+msgstr ""
+
+#: inc/core_functions.php:731
+msgid "Solomon Islands"
+msgstr ""
+
+#: inc/core_functions.php:732
+msgid "Somalia"
+msgstr ""
+
+#: inc/core_functions.php:733
+msgid "South Africa"
+msgstr ""
+
+#: inc/core_functions.php:734
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: inc/core_functions.php:735
+msgid "South Korea"
+msgstr ""
+
+#: inc/core_functions.php:736
+msgid "South Sudan"
+msgstr ""
+
+#: inc/core_functions.php:737
+msgid "Spain"
+msgstr ""
+
+#: inc/core_functions.php:738
+msgid "Sri Lanka"
+msgstr ""
+
+#: inc/core_functions.php:739
+msgid "Sudan"
+msgstr ""
+
+#: inc/core_functions.php:740
+msgid "Suriname"
+msgstr ""
+
+#: inc/core_functions.php:741
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: inc/core_functions.php:742
+msgid "Swaziland"
+msgstr ""
+
+#: inc/core_functions.php:743
+msgid "Sweden"
+msgstr ""
+
+#: inc/core_functions.php:744
+msgid "Switzerland"
+msgstr ""
+
+#: inc/core_functions.php:745
+msgid "Syria"
+msgstr ""
+
+#: inc/core_functions.php:746
+msgid "Taiwan"
+msgstr ""
+
+#: inc/core_functions.php:747
+msgid "Tajikistan"
+msgstr ""
+
+#: inc/core_functions.php:748
+msgid "Tanzania"
+msgstr ""
+
+#: inc/core_functions.php:749
+msgid "Thailand"
+msgstr ""
+
+#: inc/core_functions.php:750
+msgid "Timor-Leste"
+msgstr ""
+
+#: inc/core_functions.php:751
+msgid "Togo"
+msgstr ""
+
+#: inc/core_functions.php:752
+msgid "Tokelau"
+msgstr ""
+
+#: inc/core_functions.php:753
+msgid "Tonga"
+msgstr ""
+
+#: inc/core_functions.php:754
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: inc/core_functions.php:755
+msgid "Tunisia"
+msgstr ""
+
+#: inc/core_functions.php:756
+msgid "Turkey"
+msgstr ""
+
+#: inc/core_functions.php:757
+msgid "Turkmenistan"
+msgstr ""
+
+#: inc/core_functions.php:758
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: inc/core_functions.php:759
+msgid "Tuvalu"
+msgstr ""
+
+#: inc/core_functions.php:760
+msgid "Uganda"
+msgstr ""
+
+#: inc/core_functions.php:761
+msgid "Ukraine"
+msgstr ""
+
+#: inc/core_functions.php:762
+msgid "United Arab Emirates"
+msgstr ""
+
+#: inc/core_functions.php:763
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: inc/core_functions.php:764
+msgid "United States (US)"
+msgstr ""
+
+#: inc/core_functions.php:765
+msgid "United States (US) Minor Outlying Islands"
+msgstr ""
+
+#: inc/core_functions.php:766
+msgid "United States (US) Virgin Islands"
+msgstr ""
+
+#: inc/core_functions.php:767
+msgid "Uruguay"
+msgstr ""
+
+#: inc/core_functions.php:768
+msgid "Uzbekistan"
+msgstr ""
+
+#: inc/core_functions.php:769
+msgid "Vanuatu"
+msgstr ""
+
+#: inc/core_functions.php:770
+msgid "Vatican"
+msgstr ""
+
+#: inc/core_functions.php:771
+msgid "Venezuela"
+msgstr ""
+
+#: inc/core_functions.php:772
+msgid "Vietnam"
+msgstr ""
+
+#: inc/core_functions.php:773
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: inc/core_functions.php:774
+msgid "Western Sahara"
+msgstr ""
+
+#: inc/core_functions.php:775
+msgid "Samoa"
+msgstr ""
+
+#: inc/core_functions.php:776
+msgid "Yemen"
+msgstr ""
+
+#: inc/core_functions.php:777
+msgid "Zambia"
+msgstr ""
+
+#: inc/core_functions.php:778
+msgid "Zimbabwe"
+msgstr ""
+
+#: inc/core_functions.php:999
+msgid "You will checkout via paypal"
+msgstr ""
+
+#: inc/core_functions.php:1005 inc/core_functions.php:1021
+msgid "Select"
+msgstr ""
+
+#: inc/core_functions.php:1005 inc/core_functions.php:1021
+msgid "Selected"
+msgstr ""
+
+#: inc/core_functions.php:1016
+msgid "You will checkout via cash method"
+msgstr ""
+
+#: inc/core_functions.php:1030
+msgid "The is not any payment gateways"
+msgstr ""
+
+#: inc/init_hook.php:53 inc/init_hook.php:55
+msgid "Jobs"
+msgstr ""
+
+#: inc/init_hook.php:54 inc/init_hook.php:56
+msgid "Job"
+msgstr ""
+
+#: inc/init_hook.php:57 inc/init_hook.php:152 inc/init_hook.php:257
+#: inc/init_hook.php:306 inc/init_hook.php:375
+msgid "Add New"
+msgstr ""
+
+#: inc/init_hook.php:58
+msgid "Add New Job"
+msgstr ""
+
+#: inc/init_hook.php:59
+msgid "New Job"
+msgstr ""
+
+#: inc/init_hook.php:60
+msgid "Edit Job"
+msgstr ""
+
+#: inc/init_hook.php:61
+msgid "View Job"
+msgstr ""
+
+#: inc/init_hook.php:62
+msgid "All Jobs"
+msgstr ""
+
+#: inc/init_hook.php:63
+msgid "Search Jobs"
+msgstr ""
+
+#: inc/init_hook.php:64
+msgid "Parent Jobs:"
+msgstr ""
+
+#: inc/init_hook.php:65
+msgid "No Jobs found."
+msgstr ""
+
+#: inc/init_hook.php:66
+msgid "No Jobs found in Trash."
+msgstr ""
+
+#: inc/init_hook.php:71 inc/init_hook.php:166 inc/init_hook.php:271
+#: inc/init_hook.php:320 inc/init_hook.php:389
+msgid "Description."
+msgstr ""
+
+#: inc/init_hook.php:88 inc/init_hook.php:103
+msgid "Categories"
+msgstr ""
+
+#: inc/init_hook.php:89 inc/init_hook.php:185
+msgid "Category"
+msgstr ""
+
+#: inc/init_hook.php:90
+msgid "Search Categories"
+msgstr ""
+
+#: inc/init_hook.php:91
+msgid "Popular Categories"
+msgstr ""
+
+#: inc/init_hook.php:92
+msgid "All Categories"
+msgstr ""
+
+#: inc/init_hook.php:95 inc/init_hook.php:191 inc/init_hook.php:221
+msgid "Edit Category"
+msgstr ""
+
+#: inc/init_hook.php:96 inc/init_hook.php:192 inc/init_hook.php:222
+msgid "Update Category"
+msgstr ""
+
+#: inc/init_hook.php:97 inc/init_hook.php:193 inc/init_hook.php:223
+msgid "Add New Category"
+msgstr ""
+
+#: inc/init_hook.php:98 inc/init_hook.php:194 inc/init_hook.php:224
+msgid "New Category Name"
+msgstr ""
+
+#: inc/init_hook.php:99
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: inc/init_hook.php:100
+msgid "Add or remove Categories"
+msgstr ""
+
+#: inc/init_hook.php:101
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: inc/init_hook.php:102
+msgid "No Categories found."
+msgstr ""
+
+#: inc/init_hook.php:118 inc/init_hook.php:119 inc/init_hook.php:133
+msgid "Locations"
+msgstr ""
+
+#: inc/init_hook.php:120
+msgid "Search Locations"
+msgstr ""
+
+#: inc/init_hook.php:121
+msgid "Popular Locations"
+msgstr ""
+
+#: inc/init_hook.php:122
+msgid "All Locations"
+msgstr ""
+
+#: inc/init_hook.php:125
+msgid "Edit Location"
+msgstr ""
+
+#: inc/init_hook.php:126
+msgid "Update Location"
+msgstr ""
+
+#: inc/init_hook.php:127
+msgid "Add New Location"
+msgstr ""
+
+#: inc/init_hook.php:128
+msgid "New Location Name"
+msgstr ""
+
+#: inc/init_hook.php:129
+msgid "Separate Locations with commas"
+msgstr ""
+
+#: inc/init_hook.php:130
+msgid "Add or remove Locations"
+msgstr ""
+
+#: inc/init_hook.php:131
+msgid "Choose from the most used Locations"
+msgstr ""
+
+#: inc/init_hook.php:132
+msgid "No Locations found."
+msgstr ""
+
+#: inc/init_hook.php:148 inc/init_hook.php:150
+msgid "Profiles"
+msgstr ""
+
+#: inc/init_hook.php:149 inc/init_hook.php:151
+msgid "Profile"
+msgstr ""
+
+#: inc/init_hook.php:153
+msgid "Add New Profile"
+msgstr ""
+
+#: inc/init_hook.php:154 inc/init_hook.php:259
+msgid "New Profile"
+msgstr ""
+
+#: inc/init_hook.php:155
+msgid "Edit Profile"
+msgstr ""
+
+#: inc/init_hook.php:156
+msgid "View Profile"
+msgstr ""
+
+#: inc/init_hook.php:157
+msgid "All Profiles"
+msgstr ""
+
+#: inc/init_hook.php:158
+msgid "Search Profiles"
+msgstr ""
+
+#: inc/init_hook.php:159
+msgid "Parent Profiles:"
+msgstr ""
+
+#: inc/init_hook.php:160
+msgid "No Profiles found."
+msgstr ""
+
+#: inc/init_hook.php:161
+msgid "No Profiles found in Trash."
+msgstr ""
+
+#: inc/init_hook.php:184 inc/init_hook.php:199
+msgid "Skills"
+msgstr ""
+
+#: inc/init_hook.php:186
+msgid "Search Skills"
+msgstr ""
+
+#: inc/init_hook.php:187
+msgid "Popular Skills"
+msgstr ""
+
+#: inc/init_hook.php:188
+msgid "All Skills"
+msgstr ""
+
+#: inc/init_hook.php:195
+msgid "Separate Skills with commas"
+msgstr ""
+
+#: inc/init_hook.php:196
+msgid "Add or remove Skills"
+msgstr ""
+
+#: inc/init_hook.php:197
+msgid "Choose from the most used Skills"
+msgstr ""
+
+#: inc/init_hook.php:198
+msgid "No Skills found."
+msgstr ""
+
+#: inc/init_hook.php:214 inc/init_hook.php:229
+msgid "Countries"
+msgstr ""
+
+#: inc/init_hook.php:215 template-profile/emp-edit-overview.php:170
+#: template-profile/fre-edit-freelancer.php:141
+msgid "Country"
+msgstr ""
+
+#: inc/init_hook.php:216
+msgid "Search Countries"
+msgstr ""
+
+#: inc/init_hook.php:217
+msgid "Popular Countries"
+msgstr ""
+
+#: inc/init_hook.php:218
+msgid "All Countries"
+msgstr ""
+
+#: inc/init_hook.php:225
+msgid "Separate Countries with commas"
+msgstr ""
+
+#: inc/init_hook.php:226
+msgid "Add or remove Countries"
+msgstr ""
+
+#: inc/init_hook.php:227
+msgid "Choose from the most used Countries"
+msgstr ""
+
+#: inc/init_hook.php:228
+msgid "No Countries found."
+msgstr ""
+
+#: inc/init_hook.php:242 inc/themes.php:337
+msgid "Archived"
+msgstr ""
+
+#: inc/init_hook.php:253 inc/init_hook.php:254 inc/init_hook.php:256
+msgid "Portfolio"
+msgstr ""
+
+#: inc/init_hook.php:255
+msgid "Portfolios"
+msgstr ""
+
+#: inc/init_hook.php:258
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/init_hook.php:260
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/init_hook.php:261
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/init_hook.php:262
+msgid "All Portfolios"
+msgstr ""
+
+#: inc/init_hook.php:263
+msgid "Search Portfolios"
+msgstr ""
+
+#: inc/init_hook.php:264
+msgid "Parent Portfolios:"
+msgstr ""
+
+#: inc/init_hook.php:265
+msgid "No Portfolios found."
+msgstr ""
+
+#: inc/init_hook.php:266
+msgid "No Portfolios found in Trash."
+msgstr ""
+
+#: inc/init_hook.php:302 inc/init_hook.php:304
+msgid "Orders"
+msgstr ""
+
+#: inc/init_hook.php:303 inc/init_hook.php:305
+msgid "Order"
+msgstr ""
+
+#: inc/init_hook.php:307
+msgid "Add New Order"
+msgstr ""
+
+#: inc/init_hook.php:308
+msgid "New Order"
+msgstr ""
+
+#: inc/init_hook.php:309
+msgid "Edit Order"
+msgstr ""
+
+#: inc/init_hook.php:310
+msgid "View Order"
+msgstr ""
+
+#: inc/init_hook.php:311
+msgid "All Orders"
+msgstr ""
+
+#: inc/init_hook.php:312
+msgid "Search Orders"
+msgstr ""
+
+#: inc/init_hook.php:313
+msgid "Parent Orders:"
+msgstr ""
+
+#: inc/init_hook.php:314
+msgid "No orders found."
+msgstr ""
+
+#: inc/init_hook.php:315
+msgid "No orders found in Trash."
+msgstr ""
+
+#: inc/init_hook.php:337
+msgid "Sandbox"
+msgstr ""
+
+#: inc/init_hook.php:371
+msgid "Packages Plan"
+msgstr ""
+
+#: inc/init_hook.php:372 inc/init_hook.php:374
+msgid "Package"
+msgstr ""
+
+#: inc/init_hook.php:373
+msgid "Packages"
+msgstr ""
+
+#: inc/init_hook.php:376
+msgid "Add New Package"
+msgstr ""
+
+#: inc/init_hook.php:377
+msgid "New Package"
+msgstr ""
+
+#: inc/init_hook.php:378
+msgid "Edit Package"
+msgstr ""
+
+#: inc/init_hook.php:379
+msgid "View Package"
+msgstr ""
+
+#: inc/init_hook.php:380
+msgid "All Packages"
+msgstr ""
+
+#: inc/init_hook.php:381
+msgid "Search Packages"
+msgstr ""
+
+#: inc/init_hook.php:382
+msgid "Parent Packages:"
+msgstr ""
+
+#: inc/init_hook.php:383
+msgid "No Packages found."
+msgstr ""
+
+#: inc/init_hook.php:384
+msgid "No Packages found in Trash."
+msgstr ""
+
+#: inc/init_hook.php:545
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/payment/class_order.php:196
+#, php-format
+msgid "Deposit for the project %s"
+msgstr ""
+
+#: inc/payment/class_order.php:212
+#, php-format
+msgid "The fund transfer to freelancer on project %s"
+msgstr ""
+
+#: inc/payment/class_order.php:234
+#, php-format
+msgid "Refund for the project %s"
+msgstr ""
+
+#: inc/payment/class_paypal.php:72
+msgid "Please set receiver email"
+msgstr ""
+
+#: inc/payment/functions.php:62
+msgid "The order is not equal"
+msgstr ""
+
+#: inc/plugable.php:76 inc/plugable.php:79 inc/plugable.php:121
+#: page-login.php:70
+msgid "Send"
+msgstr ""
+
+#: inc/plugable.php:131
+msgid "Y/m/d g:i:s a"
+msgstr ""
+
+#: inc/plugable.php:138 template/job-item.php:62
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: inc/plugable.php:140
+msgid "Y/m/d"
+msgstr ""
+
+#: inc/plugable.php:203
+msgid "Please try again."
+msgstr ""
+
+#: inc/social/class_social.php:25
+msgid "Sorry, that email address is already used!"
+msgstr ""
+
+#: inc/themes.php:58
+msgid "Login fail"
+msgstr ""
+
+#: inc/themes.php:63
+msgid "You have logged succesful"
+msgstr ""
+
+#: inc/themes.php:68
+msgid "The username field is empty"
+msgstr ""
+
+#: inc/themes.php:70
+msgid "The password field is empty"
+msgstr ""
+
+#: inc/themes.php:72
+msgid "Invalid username"
+msgstr ""
+
+#: inc/themes.php:74
+#, php-format
+msgid "The password you entered for the username %s is incorrect"
+msgstr ""
+
+#: inc/themes.php:105
+msgid "Could not save password reset key to database."
+msgstr ""
+
+#: inc/themes.php:118
+msgid "Less than 1 week"
+msgstr ""
+
+#: inc/themes.php:119
+msgid "Less than 1 month"
+msgstr ""
+
+#: inc/themes.php:120
+msgid "1 to 3 months"
+msgstr ""
+
+#: inc/themes.php:121
+msgid "3 to 6 months"
+msgstr ""
+
+#: inc/themes.php:122
+msgid "More than 6 months"
+msgstr ""
+
+#: inc/themes.php:236
+msgid "My Job"
+msgstr ""
+
+#: inc/themes.php:238
+msgid "My Jobs"
+msgstr ""
+
+#: inc/themes.php:240
+msgid "My Profile"
+msgstr ""
+
+#: inc/themes.php:241
+msgid "Logout"
+msgstr ""
+
+#: inc/themes.php:263
+msgid "Remove"
+msgstr ""
+
+#: inc/themes.php:268
+msgid "There is no new notification"
+msgstr ""
+
+#: inc/themes.php:293
+#, php-format
+msgid "Status: %s"
+msgstr ""
+
+#: inc/themes.php:294
+#, php-format
+msgid "Post date: %s"
+msgstr ""
+
+#: inc/themes.php:295
+#, php-format
+msgid "Fixed Price: %s"
+msgstr ""
+
+#: inc/themes.php:323
+msgid "Job Detail"
+msgstr ""
+
+#: inc/themes.php:325
+msgid "Workspace"
+msgstr ""
+
+#: inc/themes.php:326
+msgid "Dispute"
+msgstr ""
+
+#: inc/themes.php:332
+msgid "Open"
+msgstr ""
+
+#: inc/themes.php:333
+msgid "Pending"
+msgstr ""
+
+#: inc/themes.php:334
+msgid "Draft"
+msgstr ""
+
+#: inc/themes.php:335
+msgid "Working"
+msgstr ""
+
+#: inc/themes.php:336
+msgid "Done"
+msgstr ""
+
+#: inc/themes.php:338
+msgid "Disputing"
+msgstr ""
+
+#: inc/themes.php:339
+msgid "Resolved"
+msgstr ""
+
+#: inc/themes.php:419
+msgid "Product"
+msgstr ""
+
+#: inc/themes.php:420
+msgid "Outsouce"
+msgstr ""
+
+#: inc/themes.php:425
+msgid "< 10"
+msgstr ""
+
+#: inc/themes.php:426
+msgid "10-30"
+msgstr ""
+
+#: inc/themes.php:427
+msgid "300 +"
+msgstr ""
+
+#: inc/themes.php:428
+msgid "1000 +"
+msgstr ""
+
+#: modal/modal-login.php:6
+msgid "Login to Your Account"
+msgstr ""
+
+#: modal/modal-login.php:13 page-login.php:29
+msgid "Username or Email"
+msgstr ""
+
+#: modal/modal-login.php:18 page-apply.php:68 page-login.php:32
+#: page-signup-employer.php:45 page-signup-jobseeker.php:40
+msgid "Password"
+msgstr ""
+
+#: modal/modal-login.php:22
+msgid "Login"
+msgstr ""
+
+#: modal/modal-login.php:23
+msgid "Lost your password?"
+msgstr ""
+
+#: modal/modal-login.php:30 page-signup.php:32
+msgid "OR"
+msgstr ""
+
+#: modal/modal-login.php:39
+msgid "Register"
+msgstr ""
+
+#: page-apply.php:57
+msgid "Start application"
+msgstr ""
+
+#: page-apply.php:73
+msgid "Stay signed in"
+msgstr ""
+
+#: page-apply.php:77 page-login.php:48
+msgid "Forgot password?"
+msgstr ""
+
+#: page-apply.php:78
+msgid "Sign in"
+msgstr ""
+
+#: page-apply.php:84
+msgid "Personal Details"
+msgstr ""
+
+#: page-apply.php:87 template-profile/emp-edit-overview.php:37
+msgid "First name"
+msgstr ""
+
+#: page-apply.php:91 template-profile/emp-edit-overview.php:46
+msgid "Last name"
+msgstr ""
+
+#: page-apply.php:96
+msgid "mobile preferred"
+msgstr ""
+
+#: page-apply.php:104
+msgid "I'm new to the workforce"
+msgstr ""
+
+#: page-apply.php:105
+msgid "Job title"
+msgstr ""
+
+#: page-apply.php:106
+msgid "Ex: WordPress Developer"
+msgstr ""
+
+#: page-apply.php:109
+msgid "Company name"
+msgstr ""
+
+#: page-apply.php:115
+msgid "Date start"
+msgstr ""
+
+#: page-apply.php:122
+msgid "Still in role"
+msgstr ""
+
+#: page-apply.php:128
+msgid "Documents for this application"
+msgstr ""
+
+#: page-apply.php:130
+msgid "Files can be up to 2MB for file types .pdf .doc .docx .rtf .txt."
+msgstr ""
+
+#: page-apply.php:134
+msgid "Cover letter"
+msgstr ""
+
+#: page-apply.php:137
+msgid "Upload a cover letter"
+msgstr ""
+
+#: page-apply.php:152
+msgid "Write cover letter"
+msgstr ""
+
+#: page-apply.php:152 template-profile/fre-edit-freelancer.php:100
+msgid "Edit"
+msgstr ""
+
+#: page-apply.php:154
+msgid "Preview text of written cover letter"
+msgstr ""
+
+#: page-apply.php:158 page-my-profile.php:97 page-my-profile.php:127
+#: template-profile/emp-edit-overview.php:183
+#: template-profile/fre-edit-freelancer.php:89
+#: template-profile/fre-edit-freelancer.php:176
+#: template-profile/fre-edit-overview.php:33
+msgid "Save"
+msgstr ""
+
+#: page-apply.php:158
+msgid "Cancel"
+msgstr ""
+
+#: page-apply.php:158
+msgid "Clear"
+msgstr ""
+
+#: page-apply.php:164
+msgid "Don't include a cover letter"
+msgstr ""
+
+#: page-apply.php:170
+msgid "Resume"
+msgstr ""
+
+#: page-apply.php:173
+msgid "Upload a resume"
+msgstr ""
+
+#: page-apply.php:186
+msgid "Don't include a resume"
+msgstr ""
+
+#: page-apply.php:192
+msgid "Submit application"
+msgstr ""
+
+#: page-apply.php:194
+msgid ""
+"All personal information submitted by you as part of an application will be "
+"used by us in accordance with our <a href=\"/privacy\" target=\"_blank\" "
+"data-automation=\"apply-lnk-privacy\">Privacy Statement</a>."
+msgstr ""
+
+#: page-apply.php:198
+msgid "You have applied successful this job "
+msgstr ""
+
+#: page-login.php:29
+msgid "Enter you username"
+msgstr ""
+
+#: page-login.php:32
+msgid "Enter your password"
+msgstr ""
+
+#: page-login.php:35
+msgid "Remember login"
+msgstr ""
+
+#: page-login.php:60
+msgid "Reset your password"
+msgstr ""
+
+#: page-login.php:61
+msgid "Wrong username og password"
+msgstr ""
+
+#: page-login.php:63
+msgid "Enter you email"
+msgstr ""
+
+#: page-my-profile.php:61
+msgid "Close"
+msgstr ""
+
+#: page-my-profile.php:62
+msgid "Save changes"
+msgstr ""
+
+#: page-my-profile.php:77
+msgid "Add Portfolio"
+msgstr ""
+
+#: page-my-profile.php:80
+msgid "Portfolio name"
+msgstr ""
+
+#: page-my-profile.php:81
+msgid "Post content "
+msgstr ""
+
+#: page-my-profile.php:88
+msgid "Select an image"
+msgstr ""
+
+#: page-my-profile.php:108 template-profile/fre-edit-freelancer.php:187
+msgid "Add portfolio"
+msgstr ""
+
+#: page-my-profile.php:111 page-my-profile.php:115
+msgid "Set title"
+msgstr ""
+
+#: page-post-job.php:18
+msgid "Please login to post project"
+msgstr ""
+
+#: page-post-job.php:34
+msgid "Pay to upgrade job"
+msgstr ""
+
+#: page-post-job.php:38
+msgid "Select payment gateways"
+msgstr ""
+
+#: page-post-job.php:44
+msgid "Pay Now"
+msgstr ""
+
+#: page-signup-employer.php:15 page-signup-employer.php:57
+#: page-signup-jobseeker.php:15 page-signup-jobseeker.php:54
+msgid "SIGN UP"
+msgstr ""
+
+#: page-signup-employer.php:16
+msgid "Create a employer account in seconds and post a job right now"
+msgstr ""
+
+#: page-signup-employer.php:21 page-signup-jobseeker.php:21
+#: template-profile/emp-edit-overview.php:41
+msgid "First Name"
+msgstr ""
+
+#: page-signup-employer.php:24 page-signup-jobseeker.php:24
+#: template-profile/emp-edit-overview.php:50
+msgid "Last Name"
+msgstr ""
+
+#: page-signup-employer.php:30
+msgid "User Name"
+msgstr ""
+
+#: page-signup-employer.php:35
+msgid "Your Phone Number"
+msgstr ""
+
+#: page-signup-employer.php:40 page-signup-jobseeker.php:35
+msgid "Your Email"
+msgstr ""
+
+#: page-signup-employer.php:53 page-signup-jobseeker.php:48
+#, php-format
+msgid ""
+"Yes, I understand and agree <a href=\"%s\" target=\"_blank\">All Terms of "
+"Service</a>"
+msgstr ""
+
+#: page-signup-employer.php:62 page-signup-jobseeker.php:59
+msgid " This page only available for visitor"
+msgstr ""
+
+#: page-signup-jobseeker.php:16
+msgid "Create a freelancer account in seconds and bid a job right now"
+msgstr ""
+
+#: page-signup-jobseeker.php:30
+msgid "User name"
+msgstr ""
+
+#: page-signup.php:12
+msgid "Let's get started!"
+msgstr ""
+
+#: page-signup.php:13
+msgid "First, tell us what you're looking for."
+msgstr ""
+
+#: page-signup.php:24
+msgid "I want to hire a freelancer"
+msgstr ""
+
+#: page-signup.php:27
+msgid "Find, collaborate with,<br>and pay an expert."
+msgstr ""
+
+#: page-signup.php:29
+msgid "Hire"
+msgstr ""
+
+#: page-signup.php:37
+msgid "I'm looking for online work"
+msgstr ""
+
+#: page-signup.php:40
+msgid "Find freelance projects and <br> grow your business."
+msgstr ""
+
+#: page-verify.php:26
+msgid "Key is expired"
+msgstr ""
+
+#: page-verify.php:68
+msgid "Your account is verified. You are redirecting to home page."
+msgstr ""
+
+#: page-verify.php:94
+msgid "Verify your account to access website"
+msgstr ""
+
+#: page-verify.php:96
+#, php-format
+msgid ""
+"We've sent an email to your address: <strong>%s</strong><br /> Please check "
+"your email and click on the link provided to verify your account."
+msgstr ""
+
+#: page-verify.php:97
+msgid ""
+"If you did not receive that email. You can click <a href=\"#\" class=\"btn-"
+"resend\"> here</a> to resend a new email"
+msgstr ""
+
+#: searchform.php:11
+msgid "Keyword skill (Java, iOS...), Job Title, Company..."
+msgstr ""
+
+#: searchform.php:37
+msgid "Search"
+msgstr ""
+
+#: template-profile/emp-edit-overview.php:20
+msgid "Your Profile"
+msgstr ""
+
+#: template-profile/emp-edit-overview.php:56
+msgid "Company Name"
+msgstr ""
+
+#: template-profile/emp-edit-overview.php:60
+msgid "Display name"
+msgstr ""
+
+#: template-profile/emp-edit-overview.php:66
+#: template-profile/fre-edit-freelancer.php:102
+msgid "Email"
+msgstr ""
+
+#: template-profile/emp-edit-overview.php:70
+msgid "Your email"
+msgstr ""
+
+#: template-profile/emp-edit-overview.php:116
+#: template-profile/fre-edit-freelancer.php:26
+msgid "List country is empty"
+msgstr ""
+
+#: template-profile/emp-edit-overview.php:121
+msgid "Short des company"
+msgstr ""
+
+#: template-profile/emp-edit-overview.php:125
+msgid "Description company"
+msgstr ""
+
+#: template-profile/emp-edit-overview.php:130
+#: template-profile/emp-edit-overview.php:134
+msgid "Overview company"
+msgstr ""
+
+#: template-profile/emp-edit-overview.php:140
+msgid "Company type"
+msgstr ""
+
+#: template-profile/emp-edit-overview.php:154
+msgid "Company range"
+msgstr ""
+
+#: template-profile/fre-edit-freelancer.php:81
+msgid "Set your youtube video ID here"
+msgstr ""
+
+#: template-profile/fre-edit-freelancer.php:98
+msgid "Profile info"
+msgstr ""
+
+#: template-profile/fre-edit-freelancer.php:112
+msgid "Hour rate"
+msgstr ""
+
+#: template-profile/fre-edit-freelancer.php:121
+msgid "Phone"
+msgstr ""
+
+#: template-profile/fre-edit-freelancer.php:130
+msgid "Address"
+msgstr ""
+
+#: template-profile/fre-edit-freelancer.php:150
+msgid "Skill"
+msgstr ""
+
+#: template-profile/fre-edit-freelancer.php:164
+msgid "PayPal Email"
+msgstr ""
+
+#: template-profile/fre-edit-freelancer.php:216
+msgid "There is no any portfolio yet"
+msgstr ""
+
+#: template-profile/fre-edit-overview.php:3
+#: template-profile/fre-edit-overview.php:23
+msgid "Your professional title"
+msgstr ""
+
+#: template-profile/fre-edit-overview.php:10
+msgid "Overviews"
+msgstr ""
+
+#: template-profile/fre-edit-overview.php:27
+#: template-profile/fre-edit-overview.php:28
+msgid "Update your cover letter here"
+msgstr ""
+
+#: template-profile/list-bid-done-loop.php:32
+#: template-profile/list-bid-status-loop.php:30
+msgid "Employer did not left a review"
+msgstr ""
+
+#: template-profile/list-bid-done.php:10
+#: template-profile/list-bid-status.php:10
+msgid "List projects are bidding"
+msgstr ""
+
+#: template-profile/list-bid-done.php:11
+#: template-profile/list-bid-status.php:11
+msgid "List projects are working"
+msgstr ""
+
+#: template-profile/list-bid-done.php:12
+#: template-profile/list-bid-status.php:12
+msgid "List projects done"
+msgstr ""
+
+#: template-profile/list-bid-done.php:13
+#: template-profile/list-bid-status.php:13
+msgid "List project are disputed"
+msgstr ""
+
+#: template-profile/list-bid-status-loop.php:41
+msgid "Rating and review by freelancer:"
+msgstr ""
+
+#: template-profile/list-bid-status-loop.php:49
+msgid "Not left a review here"
+msgstr ""
+
+#: template-profile/list-project-status-loop.php:25
+msgid "Freelancer review:"
+msgstr ""
+
+#: template-profile/list-project-status.php:12
+msgid "List project are publish"
+msgstr ""
+
+#: template-profile/list-project-status.php:13
+msgid "List project are working"
+msgstr ""
+
+#: template-profile/list-project-status.php:14
+msgid "List project are done"
+msgstr ""
+
+#: template/form-post-job.php:4
+msgid "Post Job Now"
+msgstr ""
+
+#: template/form-post-job.php:19
+msgid "Renew Your Job"
+msgstr ""
+
+#: template/form-post-job.php:47
+msgid "Renew job"
+msgstr ""
+
+#: template/form-post-job.php:50
+msgid "Job Title:"
+msgstr ""
+
+#: template/form-post-job.php:51
+msgid "Ex: Need 2 WordPress developer expert"
+msgstr ""
+
+#: template/form-post-job.php:57
+msgid "Salary for this possition?"
+msgstr ""
+
+#: template/form-post-job.php:60
+msgid "Min salary"
+msgstr ""
+
+#: template/form-post-job.php:63
+msgid "Max salary"
+msgstr ""
+
+#: template/form-post-job.php:68
+msgid "Benefits of this possition:"
+msgstr ""
+
+#: template/form-post-job.php:95
+msgid "What type of work do you require?"
+msgstr ""
+
+#: template/form-post-job.php:96
+msgid "Select a category of work (optional)"
+msgstr ""
+
+#: template/form-post-job.php:117
+msgid "Location"
+msgstr ""
+
+#: template/form-post-job.php:118
+msgid "Select a location of your job (*)"
+msgstr ""
+
+#: template/form-post-job.php:140
+msgid "Select sub location."
+msgstr ""
+
+#: template/form-post-job.php:144
+msgid "Address:"
+msgstr ""
+
+#: template/form-post-job.php:145
+msgid "Ex:123 Main Street, Schenectady"
+msgstr ""
+
+#: template/form-post-job.php:150
+msgid "WHAT SKILLS ARE REQUIRED?"
+msgstr ""
+
+#: template/form-post-job.php:151
+msgid "What skills are required?"
+msgstr ""
+
+#: template/form-post-job.php:173
+msgid "Job description"
+msgstr ""
+
+#: template/form-post-job.php:179
+msgid "Requirement for this possition"
+msgstr ""
+
+#: template/form-post-job.php:190
+msgid "Upload Files"
+msgstr ""
+
+#: template/form-post-job.php:196
+msgid ""
+"Drag drop any images or documents that might be helpful in explaining your "
+"project brief here"
+msgstr ""
+
+#: template/form-post-job.php:200
+msgid "You have uploaded this file before"
+msgstr ""
+
+#: template/form-post-job.php:219
+msgid "Optional Upgrades"
+msgstr ""
+
+#: template/form-post-job.php:251
+msgid ""
+"By clicking 'Post Job Now', you are indicating that you have read and agree "
+"to the Terms & Conditions and Privacy Policy"
+msgstr ""
+
+#: template/job-item.php:35
+msgid "You will love it"
+msgstr ""
+
+#: template/job-item.php:60 template/single-job-header.php:71
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: template/single-job-header.php:54
+msgid "Sign in to view"
+msgstr ""
+
+#: template/single-job-header.php:65
+#, php-format
+msgid "%d views"
+msgstr ""
+
+#: template/single-job-header.php:73
+#, php-format
+msgid "Posted %s ago"
+msgstr ""
+
+#: template/single-job-header.php:90
+msgid "Apply Now"
+msgstr ""
+
+#: template/single-job-header.php:104
+msgid "Save Job"
+msgstr ""
+
+#: template/single-job-header.php:107
+msgid "Saved"
+msgstr ""
+
+#: template/single-job-middle.php:43
+msgid "Job Description"
+msgstr ""
+
+#: template/single-job-middle.php:50
+msgid "Your Skills and Experience"
+msgstr ""

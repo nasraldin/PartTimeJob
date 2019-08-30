@@ -1,0 +1,482 @@
+.border-color, .btn.border-color{
+	border-color: rgb(30, 159, 173);
+}
+
+.primary-color, a.primary-color, span.primary-color, .main-color{
+	color: rgb(30, 159, 173);
+}
+.pagination.current, .prev.pagination, .next.pagination{
+	color: rgb(30, 159, 173);
+}
+.btn-primary-bg,  .btn, .btn-action, button.btn-action, .irs-bar,.irs-slider, .irs-bar{
+	background-color: rgb(30, 159, 173);
+}
+
+.setting-logo{
+	overflow: hidden;
+	display: block;
+	clear: both;
+	background: #fff;
+	padding: 15px 0 15px 15px;
+}
+h1.theme-option{
+	line-height: 50px;
+	text-indent: 10px;
+	font-size: 29px;
+}
+.active.toggle-off{
+
+}
+.btn-short{
+	background-color: transparent;
+	box-shadow: none;
+	border:0;
+}
+.main-group{
+	overflow: hidden;
+	background: #fff;
+}
+.loading{
+   background: url('../../img/spinner.gif') no-repeat  right center !important;
+ }
+
+.full.field-control-success::after{
+	bottom: 22px;
+	right: 15px;
+}
+.toggle.field-control-success::after{
+	display: none;
+}
+.form-group{
+	position: relative;
+}
+.align-right{
+	text-align: right;
+}
+.f-right{
+	float: right;
+}
+.align-center{
+	text-align: center;
+}
+.main-gropup{
+	background: #fff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.main-gropup h2{
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 15px;
+	margin-bottom: 30px;
+}
+.heading-tab{
+	background-color: #00B22D;
+	width: 100%;
+	display: block;
+	overflow: hidden;
+}
+
+.heading-tab ul li{
+	display: inline-block;
+	padding: 10px 20px;
+	border-right: 1px solid #fff;
+	float: left;
+	text-transform: uppercase;
+	margin:0;
+}
+.heading-tab ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+    color: #fff;
+}
+.no-padding{
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+
+.no-padding-left{
+	padding-left: 0 !important;
+}
+.no-padding-right{
+	padding-right: 0 !important;
+}
+.toggle-line{
+	margin-top: 0;
+}
+.toggle.btn{
+	border:1px solid #ccc;
+}
+.toggle.btn{
+	min-width: 100px;
+}
+.heading-tab ul li:last-child{
+	border-right: 1px solid #ccc;
+}
+
+.frm-add-package{
+	margin-top: 30px;
+}
+.frm-add-package h3{
+	padding: 15px 0;
+}
+.row-item .frm-add-package{
+	background-color: #f1f1f1;
+}
+.frm-add-package .one-line{
+	padding-bottom: 15px;
+}
+form .form-heading{
+	padding-bottom:20px;
+}
+.btn-delete{
+	cursor: pointer;
+}
+ul.box-table{
+
+}
+ul.box-table{
+
+}
+ul.box-table li{
+	border:1px solid #ccc;
+	border-top:0px;
+	padding: 5px 0;
+	margin: 0;
+}
+ul.box-table li.li-heading{
+	border:1px solid #ccc;
+	font-weight: bold;
+}
+.section-title{
+	padding: 20px 0;
+	text-transform: uppercase;
+}
+.box-section{
+
+	padding: 0 0px 30px 0px;
+	overflow: hidden;
+	background: #fff;
+}
+.sub-item{
+	display: block;
+    padding-bottom: 25px;
+    overflow: hidden;
+
+    margin-bottom: 26px;
+
+}
+.sub-section{
+	margin-bottom: 0px;
+    clear: both;
+    display: block;
+    overflow: hidden;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 25px;
+    padding-top: 20px;
+}
+.setting-payments .ui-sortable li{
+	padding: 0;
+	border-bottom: #e8e8e8;
+}
+.setting-payments .sub-section .full{
+	padding-bottom: 0;
+}
+.setting-payments  .toggle.btn{
+	min-height: 20px !important;
+}
+.setting-payments{
+	border-radius: 3px;
+	border:1px solid #e5e5e5;
+}
+.setting-payments .heading{
+	background-color: #fff;
+	padding: 13px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+.setting-payments .ui-sortable li:nth-child(odd){
+	background-color: #f9f9f9;
+}
+.setting-payments .ui-sortable li .sub-section{
+	border-bottom: 0;
+	padding: 10px 0;
+}
+.sub-wrap{
+	padding: 20px 0 20px 20px;
+	overflow: hidden;
+	display: block;
+}
+textarea{
+	width: 100%;
+	height: 120px;
+	padding-top: 15px;
+}
+
+ul.block li{
+	display: block;
+	float: none;
+}
+#left_menu ul li{
+    border: 1px solid #ccc;
+    width: 100%;
+    float: left;
+    margin: 0;
+    border-bottom: 0;
+
+}
+#sub_heading_menu ul li:last-child{
+	border-bottom: 1px solid #ccc;
+}
+#sub_heading_menu ul li a{
+	cursor: pointer;
+	padding: 8px 0;
+	float: left;
+	border:1px solid #ccc;
+	margin-right: 10px;
+}
+.second-content{
+	display: none;
+	clear: both;
+}
+.second-content.active{
+	display: block;
+}
+.toggle-on.btn{
+	background-color: #5cb85c;
+}
+div.mce-tinymce{
+	border:1px solid #ccc !important;
+}
+#main_content{
+	background: #fff;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 35px;
+	overflow: hidden;
+}
+.mce-branding-powered-by{
+	display: none;
+}
+.btn-act{
+	cursor: pointer;
+}
+.full{
+	padding-bottom: 15px;
+	display: block;
+	width: 100%;
+	padding: 0;
+	position: relative;
+	overflow: hidden;
+}
+.sub-section  .full{
+	padding-bottom: 15px;
+}
+.form-group{
+	overflow: hidden;
+}
+tr:nth-child(even) td{background: #fff}
+tr:nth-child(odd) td, div.item-le {background: #f9f9f9}
+thead:nth-child,thead th,thead tr, thead{
+	background: #fff;
+	font-weight: bold;
+}
+.widefat th{
+	font-weight: bold;
+
+}
+.widefat{
+	width: 100%;
+	float: left;
+	clear: both;
+}
+#list_package .row-item{
+	padding: 10px 0;
+	overflow: hidden;
+}
+#list_package{
+	border:1px solid #dedede;
+}
+
+.form-group.heading-line{
+	padding: 10px 0;
+	margin-bottom: 0;
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+.frm-update-mail {
+    background: #f3f3f3;
+    overflow: hidden;
+    display: block;
+    padding: 15px 0;
+}
+.frm-update-mail  textarea{
+	height: 79px;
+}
+.f-right{
+	float: right;
+}
+.btn-bg-white{
+	background: #fff;
+}
+.frm-update-mail .col-md-12{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.glyphicon{
+	font-size: 16px;
+}
+.toggle-handle{
+	background-color: #ccc;
+}
+input.auto-save,
+select.auto-save{
+	height: 39px;
+	box-shadow: none;
+}
+.field-type-checkbox.auto-save{
+	height: 15px;
+}
+.input-type-checkbox.auto-save{
+	height: 15px;
+}
+.row-explain{
+	padding-top: 5px;
+	padding-bottom: 8px;
+	text-indent: 3px;
+}
+.btn-big{
+	padding: 6px 20px;
+	border-radius: 20px;
+	border:0;
+	background-color: #5cb85c;
+	color: #fff;
+	font-size: 19px;
+	display: inline-block;
+}
+.col-md-3{
+
+}
+.box-tooltip {
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/* Tooltip text */
+.box-tooltip .tooltiptext {
+    visibility: hidden;
+    width: 300px;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+    height: 25px;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.box-tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+.tooltiptext {
+    bottom: 100%;
+    margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+}
+.install-tab .sub-section{
+	border: 0;
+	padding: 0;
+	margin:0;
+}
+.install-tab .sub-section .full{
+	padding-bottom: 0;
+	margin: 0;
+}
+label.label-checkbox input{
+	float: left;
+}
+label.label-checkbox i{
+	margin-top: 2px;
+	float: left;
+	padding-left: 8px;
+}
+.text-transform{
+	text-transform: uppercase;
+}
+.show-sandbox-api .real-api-config,
+.show-real-payment-api .sandbox-api-config {
+	display: none;
+}
+.btn-back-end, button.btn-act{
+	color: #fff;
+	padding: 6px 23px;
+	text-transform: uppercase;
+}
+.field-label{
+	padding: 10px 0 5px 0;
+	display: block;
+}
+.field-inline .field-label{
+	display: inline-block;
+	padding-right: 25px;
+	padding-top: 10px;
+}
+.switch-label{
+
+}
+.row-switch, .switch-field{
+	padding-top: 10px;
+}
+.toggle-off.btn{
+	color: #fff;
+}
+.field-item{
+	position: relative;
+}
+input.success::after {
+    font-family: 'FontAwesome';
+    content: "\f00c";
+    position: absolute;
+    bottom: 7px;
+    right: 35px;
+    color: #5cb85c;
+}
+.right-item{
+	position: relative;
+}
+.field-control-success::after {
+    font-family: 'FontAwesome';
+    content: "\f00c";
+    position: absolute;
+    top: 41px;
+    right: 15px;
+    color: #5cb85c;
+}
+.row-switch.field-control-success::after {
+    top: 15px;
+    right: -1px;
+}
+.no-label.field-item.field-control-success::after{
+	top:7px;
+}
+.col-form-label{
+
+}
+.field-item input{
+	box-shadow: none;
+}
+.config-api{
+	display: none;
+}
+.is-acti .config-api{
+	display: block;
+}
+.fa-arrows-alt-v:before {
+    content: "\f338";
+}

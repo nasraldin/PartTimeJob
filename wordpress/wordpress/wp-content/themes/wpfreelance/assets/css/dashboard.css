@@ -1,0 +1,264 @@
+.dashboard-area{
+	font-family: 'Roboto';
+	font-size: 14px;
+}
+.dashboard-area h1.page-title{
+	font-size: 25px;
+    line-height: 1.37;
+    font-weight: 700;
+    color: #333;
+    margin:0;
+    padding: 0;
+}
+#heading_dashboard{
+	padding: 10px 0 1px 0;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: -1px;
+}
+	overflow: hidden;
+}
+.dashboard-tab li.item-chan{
+	background: #f9f9f9;
+}
+.dashboard-tab li div{
+	overflow: hidden;
+}
+.dashboard-tab li a.project-title{
+	white-space:nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	max-width: 100%;
+	padding: 2px;
+}
+.dashboard-tab .heading{
+	border-top:1px solid #4D525B;
+	background-color: #4D525B;
+	border-radius: 3px 3px 0 0;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	text-transform: capitalize;
+}
+ul.dashboard-tab li a {
+    border-top: 1px solid #f3f3f3;
+    border-left: 1px solid #f3f3f3;
+    border-radius: 0;
+    padding: 5px 15px;
+}
+.nav-pills.dashboard-tab li{
+	margin:0;
+}
+ul.dashboard-tab li:last-child a{
+	border-right:1px solid #f3f3f3;
+}
+.heading-table{
+	font-weight: 600;
+    display: block;
+    overflow: hidden;
+    padding: 15px 0;
+}
+a.act-link{
+	padding: 0px 10px;
+	background-color: none;
+}
+
+.btn-board {
+	font-size: 16px;
+	display: inline-block;
+	padding-left: 6px;
+}
+ul.tab-heading{
+	width: 100%;
+	display: block;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	padding-left: 0;
+	border-bottom: 1px solid #DEDEDE;
+}
+ul.tab-heading li{
+	display: inline-block;
+	font-size: 15px;
+	cursor: pointer;
+	text-align: center;
+	padding: 10px 15px;
+}
+ul.tab-heading li:first-child{
+	padding-left: 0;
+}
+
+ul.tab-heading li.active{
+	color: rgb(30, 159, 173);;
+}
+ul.tab-heading li:last-child::after{
+	border-right: 0;
+}
+.my-project .heading-top{
+	margin-bottom: 35px;
+}
+.dashboard-tab.active{
+	display: block;
+}
+.dashboard-tab{
+	display: none;
+	padding: 0px;
+	position: relative;
+	width: 100%;
+	clear: both;
+	float: left;
+}
+
+.dashboard-tab li{
+	display: block;
+	width: 100%;
+	clear: both;
+	overflow: hidden;
+	padding: 10px 0 10px 0;
+	border-bottom: 1px solid #DEDEDE;
+}
+.dashboard-tab li.col-md-12{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.dashboard-tab li a{
+	color: #0087e0;
+	font-weight:700;
+}
+.fillter-project-status{
+	position: relative;
+}
+.fillter-project-status .col-md-4{
+	position: absolute;
+	top:-77px;
+	right: 0;
+	padding-right: 0;
+}
+.ul-list-project{
+	padding: 0;
+	overflow: hidden;
+	width: 100%;
+	float: left;
+	clear: both;
+	box-shadow: 0 0 4px 0 rgba(0,0,0,.08), 0 2px 4px 0 rgba(0,0,0,.12);
+	background-color: #fff;
+}
+.left-dashboard{
+	background-color: #fff;
+	border:1px solid #eee;
+	border-radius: 5px;
+	padding-bottom: 15px;
+}
+.right-dashboard .box-block{
+	background-color: #fff;
+	border:1px solid #eee;
+	border-radius: 5px;
+	padding: 15px;
+	margin-bottom: 20px;
+}
+.project-row{
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom:1px solid #eee;
+}
+.project-row a{
+	font-size: 16px;
+}
+.project-row .p-des{
+	padding-top: 10px;
+}
+.bid-heading{
+	display: block;
+	padding-bottom:  25px;
+	overflow: hidden;
+}
+
+.dashboard-nav ul li{
+	display: inline-block;
+	float: left;
+
+}
+.dashboard-nav ul li a{
+	color: #fff;
+	padding: 15px 10px;
+	float: left;
+	text-align: center;
+}
+.dashboard-nav ul li:first-child a{
+	padding-left: 0;
+}
+.dashboard-nav{
+	background-color:#161e2c;
+}
+.dashboard-area .site-content{
+	background-color: transparent;
+}
+.membership .steps li{
+	display: inline-block;
+}
+.membership #main_signup{
+	margin: 0 !important;
+	background: transparent;
+	border: 0;
+	padding-left: 0;
+	max-width: 799px;
+}
+.wrap-myjob{
+	padding: 0;
+}
+@media only screen and (max-width: 768px) {
+	ul.tab-heading{
+		padding: 0 10px;
+	}
+	ul.tab-heading li{
+		padding: 10px 5px;
+	}
+	.ul-list-project{
+
+	}
+	.dashboard-tab{
+
+	}
+	.wrap-myjob{
+		padding: 0;
+		overflow:hidden;
+	}
+	.dashboard-tab .heading{
+		border-radius: 0;
+		text-transform: capitalize;
+	}
+	.my-project.full{
+		padding: 0px;
+	}
+	.dashboard-area h1.page-title{
+		padding: 0 10px;
+	}
+	.fillter-project-status{
+		padding-right: 10px;
+	}
+	.fillter-project-status .col-md-4{
+		position: relative;
+		top: -5px;
+		margin:0;
+	}
+	.dashboard-filter{
+		margin-bottom: 9px;
+	}
+	.my-project .heading-top{
+		margin-bottom: 20px;
+	}
+}
+.right-dashboard{
+	padding-right: 0;
+}
+.wrap-highlight{
+	text-align: right;
+	padding-top: 15px;
+}
+.btn-highlight{
+	background-color: #f77d0e;
+	border-radius: 5px;
+	padding: 8px 11px;
+	text-align: center;
+}
+.link-post-project{
+	color: #fff;
+}

@@ -1,0 +1,5 @@
+https://github.com/SantiagoInteractive/mobilpay-card-gateway-for-woocommerce/blob/master/mobcard-woo-payment-gateway.php
+
+https://wordpress.org/plugins/mobcard-woo-payment-gateway/
+
+https://suport.mobilpay.ro/index.php?/Knowledgebase/Article/View/57/12/carduri-de-test

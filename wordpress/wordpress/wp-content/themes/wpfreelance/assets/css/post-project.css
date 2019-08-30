@@ -1,0 +1,258 @@
+body.page-template-page-post-project{
+    font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+body.page-template-page-post-project .site-content{
+    background-color: #f2f2f2;
+}
+h1.page-title{
+    font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 32px;
+    color: #1f2836;
+}
+.file-uploader-area {
+    display: table;
+    width: 100%;
+    padding: 20px 28px;
+    border-color: #BEC0C2;
+    background-color: transparent;
+}
+ .PostProject .file-uploader-area {
+    display: table;
+    width: 100%;
+    padding: 20px 28px;
+    border-color: #BEC0C2;
+    background-color: transparent;
+}
+
+.file-uploader-area {
+    position: relative;
+    padding: 6px;
+    background: #fff;
+    border: 1px dashed #DEDEDE;
+    -webkit-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    border-radius: 3px 3px 3px 3px;
+    background-clip: padding-box;
+}
+.file-uploader-area {
+    position: relative;
+    padding: 15px 10px;
+    background: #fff;
+    border: 1px dashed #DEDEDE;
+    -webkit-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    border-radius: 3px 3px 3px 3px;
+    background-clip: padding-box;
+}
+
+.file-uploader-area input[type=file] {
+    height: 100%;
+}
+
+.file-uploader-area input[type=file] {
+    text-indent: -9999px;
+}
+
+.file-uploader-area input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    width: 100%;
+    border: solid transparent;
+    cursor: pointer;
+    opacity: 0;
+}
+.file-uploader-area .file-upload-text {
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px;
+    color: #1f2836;
+}
+
+ .file-uploader-area .file-upload-text,
+ .txt-term {
+    color: #1f2836;
+    line-height: 1.6;
+    font-size: 13px;
+}
+
+ .btn-file-uploader {
+    display: table-cell;
+    vertical-align: middle;
+    padding:10px 12px;
+    width: 25%;
+    position: relative;
+}
+ul.list-attach{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	clear: both;
+}
+ul.list-attach li{
+	display: block;
+	list-style: none;
+	border: 1px dashed #DEDEDE;
+	padding: 10px 0;
+	text-indent: 20px;
+	margin-top: 10px;
+}
+.btn.btn-plain, .btn.btn-plain-alt {
+    border-width: 1px;
+    border-style: solid;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+.btn-plain {
+    border: 1px solid #75787d;
+    font-weight: 700;
+    color: #4D525B;
+    background: -webkit-linear-gradient(top,transparent 0,transparent 100%);
+    background: linear-gradient(to bottom,transparent 0,transparent 100%);
+    text-shadow: 0 -1px transparent;
+}
+.frm-submit-project{
+    background-color: #fff;
+    padding:15px 50px;
+    max-width: 850px;
+    margin: 0 auto;
+    border:1px solid #e1e1e1;
+}
+.frm-submit-project label{
+    font-size: 15px;
+    color: #1f2836;
+    padding-bottom: 15px;
+}
+.frm-submit-project .form-group{
+    padding-bottom: 20px;
+    margin-bottom: 0 !important;
+}
+.frm-submit-project input.form-control{
+    height: 40px;
+}
+.frm-submit-project .chosen-container-multi .chosen-choices{
+    min-height: 40px;
+    padding: 6px 12px;
+}
+.btn-file-uploader .fa-spinner {
+    display: none;
+    top: 0;
+    position: absolute;
+    top: 12px;
+    right: 3px;
+}
+.uploading .fa-spinner{
+	display: block;
+}
+.fa-spinner{
+    visibility: hidden;
+}
+.progressing .fa-spinner{
+    display: block;
+    visibility: visible;
+}
+.uploading .btn-file-uploader{
+	opacity: 0.5;
+}
+.ul-pack-type{
+    display: block;
+    width: 100%;
+    clear: both;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+.ul-pack-type li{
+    display: block;
+    clear: both;
+    margin-bottom: 10px;
+    border:2px solid #f8f8f8;
+    width: 100%;
+    clear: both;
+    float: left;
+    padding: 15px 10px 15px 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.ul-pack-type li:hover{
+    box-shadow: 0 0 3px 0 rgba(110, 107, 107, 0.16), 0 3px 3px 0 rgba(53, 52, 52, 0.23);
+    border-color: rgb(30, 159, 173);
+}
+.ul-pack-type li.unselected:hover{
+    box-shadow: none;
+    border-color: #f8f8f8;
+
+}
+.ul-pack-type .pack-type-desc{
+    font-size: 13px;
+}
+li.pack-type-item input{
+    display: none;
+}
+li.pack-type-item label{
+    cursor: pointer;
+    display: block;
+}
+.ul-pack-type li.pack-type-item.selected{
+    border-color: rgb(30, 159, 173);
+}
+li.pack-type-item label p{
+    font-weight: normal;
+    text-transform: initial;
+}
+.pack-price span{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 50px;
+}
+.frmPayPremiumJob{
+    overflow: hidden;
+}
+.frm-submit-project .acf-fields > .acf-field{
+    padding: 0;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    padding-top: 10px;
+    border:0;
+}
+.frm-submit-project .acf-field textarea{
+    border:1px solid #cccccc;
+}
+.frm-submit-project .acf-fields select{
+    height: 40px;
+    border:1px solid #cccccc;
+}
+.frm-submit-project .acf-fields input{
+    height: 40px;
+    border:1px solid #cccccc;
+    color: #555;
+}
+.frm-submit-project .form-group{
+    position: relative;
+}
+.chosen.error+.chosen-container{
+    padding-bottom: 30px;
+}
+select+label.error{
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+    z-index: 1000;
+    padding-top: 10px;
+    line-height: 1px;
+    vertical-align: bottom;
+    padding-bottom: 10px;
+}
+
+label.error{
+    color: red;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 0;
+}
+.error + .chosen-container {
+    margin-bottom: 15px;
+}

@@ -1,0 +1,102 @@
+body.page-template-page-my-credit .site-content{
+		background-color: transparent;
+	}
+
+	.line-item{
+		background: #fff;
+		border:3px solid #e6e6e6;
+		margin-bottom: 25px;
+		padding-top:30px;
+		padding-bottom: 30px;
+		padding-left: 30px;
+		padding-right: 30px;
+		overflow: hidden;
+
+	}
+	.site-content{
+		padding-top: 0;
+	}
+	.tab-content-item{
+		min-height: 299px;
+		position: relative;
+	}
+	.tab-content-item form{
+		padding: 25px 15px;
+		border1:1px solid #ddd;
+		border-top: 0;
+	}
+	.tab-content-item h3{
+		margin-top: 0;
+		position: relative;
+		padding-right: 20px;
+	}
+	.tab-withdraw{}
+	.tab-content .hidding{
+		visibility: hidden;
+		display: none;
+	}
+	.page-credit .nav-tabs>li>a{
+		border-radius: 0;
+	}
+	div.is-edit{
+		visibility: hidden;
+		display: none;
+	}
+	form.is-edit .is-edit{
+		display: block;
+		visibility: visible;
+	}
+	form.is-edit .is-view{
+		display: none;
+	}
+	.btn-edit-self{
+		position: absolute;
+		right: 20px;
+		top: 10px;
+		cursor: pointer;
+	}
+	@media only screen and (max-width: 768px) {
+		.line-item{
+			overflow: hidden;
+			padding-left: 10px;
+			padding-right: 10px;
+			border: 0;
+			border-bottom: 1px solid #ccc;
+			padding-top: 0;
+		}
+		.page-credit .nav-tabs > li > a{
+			padding-left: 10px;
+			padding-right: 10px;
+		}
+		.history-order{
+			border: 0;
+		}
+
+		.history-order .line-heading .col-xs-5,
+		.history-order .row-order-item .col-xs-5{
+			padding-left: 0;
+			padding-right: 0;
+		}
+		.tab-content-item{
+			min-height: 0;
+		}
+		.tab-content-item form{
+			border: 0;
+			padding-left: 0;
+			padding-right: 0;
+		}
+		.custom-res h5{
+			margin-left: -15px;
+		    font-weight: normal;
+		    font-size: 16px;
+		}
+		.btn-buy-credit{
+			float: right;
+			position: relative;
+   			top: -10px;
+		}
+		.line-item .col-md-6.col-xs-6{
+			padding-left: 0;
+		}
+	}
+</style>

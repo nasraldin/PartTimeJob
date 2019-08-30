@@ -1,0 +1,213 @@
+04-14 21:17:09: check_IDN
+04-14 21:17:09: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'true',
+)
+04-14 21:17:13: check_IDN
+04-14 21:17:13: array (
+  'action' => 'box_checkout',
+  'request' => 
+  array (
+    '_gateway' => 'paystack',
+  ),
+  'method' => '',
+  'pack_id' => '305',
+)
+04-14 21:17:18: check_IDN
+04-14 21:17:18: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'true',
+)
+04-14 21:17:31: check_IDN
+04-14 21:17:31: array (
+  'action' => 'manual_approved_paystack_order',
+  'order_id' => '1438',
+)
+04-14 21:17:32: check_IDN
+04-14 21:17:32: array (
+)
+04-14 21:17:33: check_IDN
+04-14 21:17:33: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'false',
+)
+04-14 21:17:47: check_IDN
+check_IDN
+04-14 21:17:47: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'true',
+)
+04-14 21:17:48: check_IDN
+04-14 21:17:48: array (
+)
+04-14 21:17:48: check_IDN
+04-14 21:17:48: array (
+)
+04-14 21:18:05: check_IDN
+04-14 21:18:05: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'true',
+)
+04-14 21:18:06: check_IDN
+04-14 21:18:06: array (
+  'action' => 'manual_approved_paystack_order',
+  'order_id' => '1440',
+)
+04-14 21:18:17: check_IDN
+04-14 21:18:17: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'false',
+)
+04-14 21:18:18: check_IDN
+04-14 21:18:18: array (
+)
+04-14 21:18:32: check_IDN
+04-14 21:18:32: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'false',
+)
+04-14 21:18:33: check_IDN
+04-14 21:18:33: array (
+)
+04-14 21:19:09: check_IDN
+04-14 21:19:09: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'false',
+)
+04-14 21:19:27: check_IDN
+04-14 21:19:27: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'true',
+)
+04-14 21:19:34: check_IDN
+04-14 21:19:34: array (
+  'action' => 'box_checkout',
+  'request' => 
+  array (
+    '_gateway' => 'paystack',
+  ),
+  'method' => '',
+  'pack_id' => '305',
+)
+04-14 21:19:35: check_IDN
+04-14 21:19:35: array (
+)
+04-14 21:19:42: check_IDN
+04-14 21:19:42: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'true',
+)
+04-14 21:19:51: check_IDN
+04-14 21:19:51: array (
+  'action' => 'manual_approved_paystack_order',
+  'order_id' => '1442',
+)
+04-14 21:20:04: check_IDN
+04-14 21:20:04: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'true',
+)
+04-14 21:20:04: check_IDN
+04-14 21:20:04: array (
+)
+04-14 21:20:05: check_IDN
+04-14 21:20:05: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'true',
+)
+04-14 21:20:20: check_IDN
+04-14 21:20:20: array (
+  'data' => 
+  array (
+    'check_live' => 'true',
+  ),
+  'interval' => '15',
+  '_nonce' => '0bedf7be79',
+  'action' => 'heartbeat',
+  'screen_id' => 'front',
+  'has_focus' => 'false',
+)

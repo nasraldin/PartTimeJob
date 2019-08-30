@@ -1,0 +1,26 @@
+HTML input:
+https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/html_example_subscribe/#reattempted-payments
+
+https://developer.paypal.com/docs/classic/express-checkout/integration-guide/ECRecurringPayments/
+[requiredSecurityParameters]
+&METHOD=CreateRecurringPaymentsProfile
+TOKEN=EC-13W99099UU817504D
+&PROFILESTARTDATE:20XX-03-05T03:00:00
+&DESC=Movie clips
+&BILLINGPERIOD=Month  Day/Week/SemiMonth/Month/Year
+&BILLINGFREQUENCY=12
+&AMT=1.00
+&CURRENCYCODE=USD
+&EMAIL=payername@bbb.net
+&L_PAYMENTREQUEST_0_ITEMCATEGORY0=Digital
+&L_PAYMENTREQUEST_0_NAME0=Kitty Antics
+&L_PAYMENTREQUEST_0_AMT0=1.00
+&L_PAYMENTREQUEST_0_QTY0=1
+
+BILLINGFREQUENCY:
+
+(Required) Number of billing periods that make up one billing cycle.
+
+The combination of billing frequency and billing period must be less than or equal to one year. For example, if the billing cycle is Month, the maximum value for billing frequency is 12. Similarly, if the billing cycle is Week, the maximum value for billing frequency is 52.
+
+Note: If the billing period is SemiMonth, the billing frequency must be 1.
